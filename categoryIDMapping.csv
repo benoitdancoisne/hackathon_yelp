@@ -1,1558 +1,1 @@
-1,1,2,1,"Health & Medical",Orthodontists
-3,1,2,3,"Health & Medical",Dentists
-372,2,2,3,"Health & Medical",Dentists
-654,2,2,3,"Health & Medical",Dentists
-87,2,2,3,"Health & Medical",Dentists
-1,2,2,3,"Health & Medical",Dentists
-196,2,2,3,"Health & Medical",Dentists
-145,2,2,3,"Health & Medical",Dentists
-418,2,2,3,"Health & Medical",Dentists
-7,1,2,7,"Health & Medical",Chiropractors
-10,1,2,10,"Health & Medical","Sports Medicine"
-11,1,2,11,"Health & Medical",Doctors
-562,2,2,11,"Health & Medical",Doctors
-420,2,2,11,"Health & Medical",Doctors
-453,2,2,11,"Health & Medical",Doctors
-512,2,2,11,"Health & Medical",Doctors
-432,2,2,11,"Health & Medical",Doctors
-97,2,2,11,"Health & Medical",Doctors
-10,2,2,11,"Health & Medical",Doctors
-258,2,2,11,"Health & Medical",Doctors
-197,2,2,11,"Health & Medical",Doctors
-993,2,2,11,"Health & Medical",Doctors
-485,2,2,11,"Health & Medical",Doctors
-295,2,2,11,"Health & Medical",Doctors
-259,2,2,11,"Health & Medical",Doctors
-109,2,2,11,"Health & Medical",Doctors
-584,2,2,11,"Health & Medical",Doctors
-471,2,2,11,"Health & Medical",Doctors
-199,2,2,11,"Health & Medical",Doctors
-566,2,2,11,"Health & Medical",Doctors
-486,2,2,11,"Health & Medical",Doctors
-567,2,2,11,"Health & Medical",Doctors
-198,2,2,11,"Health & Medical",Doctors
-502,2,2,11,"Health & Medical",Doctors
-568,2,2,11,"Health & Medical",Doctors
-304,2,2,11,"Health & Medical",Doctors
-207,2,2,11,"Health & Medical",Doctors
-668,2,2,11,"Health & Medical",Doctors
-983,2,2,11,"Health & Medical",Doctors
-977,2,2,11,"Health & Medical",Doctors
-209,2,2,11,"Health & Medical",Doctors
-215,2,2,11,"Health & Medical",Doctors
-808,2,2,11,"Health & Medical",Doctors
-12,1,2,12,"Health & Medical","Counseling & Mental Health"
-962,2,2,12,"Health & Medical","Counseling & Mental Health"
-1054,2,2,12,"Health & Medical","Counseling & Mental Health"
-981,2,2,12,"Health & Medical","Counseling & Mental Health"
-1039,2,2,12,"Health & Medical","Counseling & Mental Health"
-945,2,2,12,"Health & Medical","Counseling & Mental Health"
-87,1,2,87,"Health & Medical","Oral Surgeons"
-92,1,2,92,"Health & Medical",Acupuncture
-97,1,2,97,"Health & Medical",Podiatrists
-109,1,2,109,"Health & Medical",Orthopedists
-112,1,2,112,"Health & Medical","Physical Therapy"
-115,1,2,115,"Health & Medical",Midwives
-125,1,2,125,"Health & Medical",Optometrists
-145,1,2,145,"Health & Medical","Cosmetic Dentists"
-168,1,2,168,"Health & Medical","Retirement Homes"
-179,1,2,179,"Health & Medical",Hospitals
-196,1,2,196,"Health & Medical","Pediatric Dentists"
-197,1,2,197,"Health & Medical",Ophthalmologists
-198,1,2,198,"Health & Medical","Obstetricians & Gynecologists"
-199,1,2,199,"Health & Medical","Internal Medicine"
-207,1,2,207,"Health & Medical","Cosmetic Surgeons"
-209,1,2,209,"Health & Medical","Family Practice"
-215,1,2,215,"Health & Medical",Psychiatrists
-226,1,2,226,"Health & Medical","Medical Centers"
-774,2,2,226,"Health & Medical","Medical Centers"
-602,2,2,226,"Health & Medical","Medical Centers"
-724,2,2,226,"Health & Medical","Medical Centers"
-230,1,2,230,"Health & Medical",Nutritionists
-243,1,2,243,"Health & Medical","Home Health Care"
-258,1,2,258,"Health & Medical","Ear Nose & Throat"
-259,1,2,259,"Health & Medical",Cardiologists
-294,1,2,294,"Health & Medical","Traditional Chinese Medicine"
-295,1,2,295,"Health & Medical",Dermatologists
-304,1,2,304,"Health & Medical",Naturopathic/Holistic
-363,1,2,363,"Health & Medical","Laser Eye Surgery/Lasik"
-372,1,2,372,"Health & Medical",Endodontists
-384,1,2,384,"Health & Medical","Weight Loss Centers"
-399,1,2,399,"Health & Medical","Speech Therapists"
-413,1,2,413,"Health & Medical","Medical Spas"
-418,1,2,418,"Health & Medical",Periodontists
-420,1,2,420,"Health & Medical",Allergists
-425,1,2,425,"Health & Medical","Urgent Care"
-432,1,2,432,"Health & Medical",Pediatricians
-453,1,2,453,"Health & Medical",Surgeons
-471,1,2,471,"Health & Medical",Proctologists
-485,1,2,485,"Health & Medical","Tattoo Removal"
-486,1,2,486,"Health & Medical","Osteopathic Physicians"
-502,1,2,502,"Health & Medical",Gerontologists
-509,1,2,509,"Health & Medical","Hearing Aids"
-512,1,2,512,"Health & Medical",Fertility
-515,1,2,515,"Health & Medical",Pharmacy
-519,1,2,519,"Health & Medical","Cannabis Clinics"
-544,1,2,544,"Health & Medical",Saunas
-562,1,2,562,"Health & Medical",Oncologist
-564,1,2,564,"Health & Medical",Hospice
-566,1,2,566,"Health & Medical",Audiologist
-567,1,2,567,"Health & Medical",Gastroenterologist
-568,1,2,568,"Health & Medical",Neurologist
-584,1,2,584,"Health & Medical",Pulmonologist
-595,1,2,595,"Health & Medical","Hearing Aid Providers"
-596,1,2,596,"Health & Medical","Laboratory Testing"
-597,1,2,597,"Health & Medical","Diagnostic Services"
-698,2,2,597,"Health & Medical","Diagnostic Services"
-596,2,2,597,"Health & Medical","Diagnostic Services"
-602,1,2,602,"Health & Medical","Walk-in Clinics"
-605,1,2,605,"Health & Medical","Rehabilitation Center"
-612,1,2,612,"Health & Medical","Lactation Services"
-627,1,2,627,"Health & Medical",Reflexology
-654,1,2,654,"Health & Medical","General Dentistry"
-668,1,2,668,"Health & Medical",Anesthesiologists
-698,1,2,698,"Health & Medical","Diagnostic Imaging"
-723,1,2,723,"Health & Medical","Massage Therapy"
-724,1,2,724,"Health & Medical","Bulk Billing"
-728,1,2,728,"Health & Medical","Medical Transportation"
-770,1,2,770,"Health & Medical","Occupational Therapy"
-774,1,2,774,"Health & Medical",Osteopaths
-801,1,2,801,"Health & Medical","Dental Hygienists"
-802,2,2,801,"Health & Medical","Dental Hygienists"
-803,2,2,801,"Health & Medical","Dental Hygienists"
-802,1,2,802,"Health & Medical","Mobile Clinics"
-803,1,2,803,"Health & Medical","Storefront Clinics"
-808,1,2,808,"Health & Medical",Urologists
-879,1,2,879,"Health & Medical",Hypnosis/Hypnotherapy
-886,1,2,886,"Health & Medical",Doulas
-891,1,2,891,"Health & Medical","Health Insurance Offices"
-928,1,2,928,"Health & Medical",Reiki
-941,1,2,941,"Health & Medical","Lice Services"
-944,1,2,944,"Health & Medical","Medical Foot Care"
-945,1,2,945,"Health & Medical",Psychologists
-957,1,2,957,"Health & Medical","Emergency Rooms"
-962,1,2,962,"Health & Medical",Psychoanalysts
-967,1,2,967,"Health & Medical",Prosthetics
-968,1,2,968,"Health & Medical",Orthotics
-977,1,2,977,"Health & Medical",Endocrinologists
-981,1,2,981,"Health & Medical",Psychotherapists
-983,1,2,983,"Health & Medical",Radiologists
-993,1,2,993,"Health & Medical",Rheumatologists
-1039,1,2,1039,"Health & Medical","Sports Psychologists"
-1054,1,2,1054,"Health & Medical","Sex Therapists"
-1080,1,2,1080,"Health & Medical","Sleep Specialists"
-1081,1,2,1081,"Health & Medical","Nurse Practitioner"
-1117,1,2,1117,"Health & Medical","Personal Care Services"
-1122,1,2,1122,"Health & Medical",Colonics
-1129,1,2,1129,"Health & Medical","Blood & Plasma Donation Centers"
-1140,1,2,1140,"Health & Medical","Dialysis Clinics"
-1146,1,2,1146,"Health & Medical","Prenatal/Perinatal Care"
-1149,1,2,1149,"Health & Medical","Habilitative Services"
-2,0,2,NULL,"Health & Medical",NULL
-6,1,4,6,"Real Estate","Property Management"
-34,1,4,34,"Real Estate","Real Estate Services"
-35,1,4,35,"Real Estate",Apartments
-150,1,4,150,"Real Estate","Mortgage Brokers"
-341,1,4,341,"Real Estate","Real Estate Agents"
-433,1,4,433,"Real Estate","Home Staging"
-478,1,4,478,"Real Estate","University Housing"
-686,1,4,686,"Real Estate","Commercial Real Estate"
-742,1,4,742,"Real Estate","Shared Office Spaces"
-1012,1,4,1012,"Real Estate","Kitchen Incubators"
-1056,1,4,1056,"Real Estate","Mobile Home Dealers"
-1085,1,4,1085,"Real Estate","Art Space Rentals"
-1100,1,4,1100,"Real Estate","Estate Liquidation"
-4,1,5,4,"Home Services","Real Estate"
-6,1,5,6,"Home Services","Property Management"
-34,1,5,34,"Home Services","Real Estate Services"
-35,1,5,35,"Home Services",Apartments
-40,1,5,40,"Home Services","Interior Design"
-54,1,5,54,"Home Services",Contractors
-58,1,5,58,"Home Services",Plumbing
-127,1,5,127,"Home Services",Movers
-150,1,5,150,"Home Services","Mortgage Brokers"
-158,1,5,158,"Home Services","Home Inspectors"
-161,1,5,161,"Home Services",Painters
-162,1,5,162,"Home Services",Electricians
-169,1,5,169,"Home Services","Building Supplies"
-170,1,5,170,"Home Services",Carpeting
-188,1,5,188,"Home Services","Home Cleaning"
-222,1,5,222,"Home Services","Shades & Blinds"
-246,1,5,246,"Home Services","Keys & Locksmiths"
-270,1,5,270,"Home Services","Lighting Fixtures & Equipment"
-283,1,5,283,"Home Services","Internet Service Providers"
-299,1,5,299,"Home Services",Flooring
-325,1,5,325,"Home Services","Heating & Air Conditioning/HVAC"
-341,1,5,341,"Home Services","Real Estate Agents"
-355,1,5,355,"Home Services",Roofing
-356,1,5,356,"Home Services",Landscaping
-367,1,5,367,"Home Services","Windows Installation"
-371,1,5,371,"Home Services","Tree Services"
-378,1,5,378,"Home Services",Gardeners
-380,1,5,380,"Home Services","Pool Cleaners"
-381,1,5,381,"Home Services","Landscape Architects"
-386,1,5,386,"Home Services",Carpenters
-409,1,5,409,"Home Services","Security Systems"
-411,1,5,411,"Home Services","Carpet Installation"
-428,1,5,428,"Home Services",Handyman
-430,1,5,430,"Home Services","Television Service Providers"
-433,1,5,433,"Home Services","Home Staging"
-447,1,5,447,"Home Services","Home Theatre Installation"
-476,1,5,476,"Home Services","Window Washing"
-478,1,5,478,"Home Services","University Housing"
-499,1,5,499,"Home Services","Solar Installation"
-636,1,5,636,"Home Services",Masonry/Concrete
-684,1,5,684,"Home Services","Home Organization"
-686,1,5,686,"Home Services","Commercial Real Estate"
-707,1,5,707,"Home Services","Garage Door Services"
-742,1,5,742,"Home Services","Shared Office Spaces"
-778,1,5,778,"Home Services",Utilities
-797,1,5,797,"Home Services","Home Window Tinting"
-800,1,5,800,"Home Services",Irrigation
-844,1,5,844,"Home Services","Damage Restoration"
-867,1,5,867,"Home Services","Door Sales/Installation"
-874,1,5,874,"Home Services","Fences & Gates"
-875,1,5,875,"Home Services","Structural Engineers"
-882,1,5,882,"Home Services","Gutter Services"
-883,1,5,883,"Home Services","Glass & Mirrors"
-888,1,5,888,"Home Services","Chimney Sweeps"
-909,1,5,909,"Home Services","Pressure Washers"
-910,1,5,910,"Home Services",Cabinetry
-933,1,5,933,"Home Services","Drywall Installation & Repair"
-960,1,5,960,"Home Services","Fireplace Services"
-978,1,5,978,"Home Services",Firewood
-985,1,5,985,"Home Services","Pool & Hot Tub Service"
-989,1,5,989,"Home Services","Insulation Installation"
-1009,1,5,1009,"Home Services","Furniture Assembly"
-1012,1,5,1012,"Home Services","Kitchen Incubators"
-1030,1,5,1030,"Home Services",Shutters
-1052,1,5,1052,"Home Services","Refinishing Services"
-1056,1,5,1056,"Home Services","Mobile Home Dealers"
-1057,1,5,1057,"Home Services","Stucco Services"
-1068,1,5,1068,"Home Services","Fire Protection Services"
-1078,1,5,1078,"Home Services","Water Purification Services"
-1083,1,5,1083,"Home Services","Home Automation"
-1085,1,5,1085,"Home Services","Art Space Rentals"
-1100,1,5,1100,"Home Services","Estate Liquidation"
-1109,1,5,1109,"Home Services",Tiling
-1114,1,5,1114,"Home Services","House Sitters"
-1123,1,5,1123,"Home Services",Childproofing
-1131,1,5,1131,"Home Services","Demolition Services"
-5,0,5,NULL,"Home Services",NULL
-9,1,8,9,Shopping,Drugstores
-13,1,8,13,Shopping,Computers
-43,1,8,43,Shopping,Jewelry
-44,1,8,44,Shopping,Bookstores
-46,2,8,45,Shopping,"Books, Mags, Music & Video"
-44,2,8,45,Shopping,"Books, Mags, Music & Video"
-274,2,8,45,Shopping,"Books, Mags, Music & Video"
-277,2,8,45,Shopping,"Books, Mags, Music & Video"
-1067,2,8,45,Shopping,"Books, Mags, Music & Video"
-242,2,8,45,Shopping,"Books, Mags, Music & Video"
-241,2,8,45,Shopping,"Books, Mags, Music & Video"
-45,1,8,45,Shopping,"Books, Mags, Music & Video"
-46,1,8,46,Shopping,"Videos & Video Game Rental"
-218,2,8,55,Shopping,"Flowers & Gifts"
-56,2,8,55,Shopping,"Flowers & Gifts"
-657,2,8,55,Shopping,"Flowers & Gifts"
-661,2,8,55,Shopping,"Flowers & Gifts"
-55,1,8,55,Shopping,"Flowers & Gifts"
-56,1,8,56,Shopping,Florists
-1135,2,8,57,Shopping,"Sporting Goods"
-76,2,8,57,Shopping,"Sporting Goods"
-1101,2,8,57,Shopping,"Sporting Goods"
-210,2,8,57,Shopping,"Sporting Goods"
-637,2,8,57,Shopping,"Sporting Goods"
-250,2,8,57,Shopping,"Sporting Goods"
-1088,2,8,57,Shopping,"Sporting Goods"
-57,1,8,57,Shopping,"Sporting Goods"
-64,1,8,64,Shopping,"Photography Stores & Services"
-65,1,8,65,Shopping,"Used, Vintage & Consignment"
-247,2,8,66,Shopping,Fashion
-660,2,8,66,Shopping,Fashion
-235,2,8,66,Shopping,Fashion
-851,2,8,66,Shopping,Fashion
-763,2,8,66,Shopping,Fashion
-699,2,8,66,Shopping,Fashion
-260,2,8,66,Shopping,Fashion
-65,2,8,66,Shopping,Fashion
-178,2,8,66,Shopping,Fashion
-310,2,8,66,Shopping,Fashion
-571,2,8,66,Shopping,Fashion
-233,2,8,66,Shopping,Fashion
-642,2,8,66,Shopping,Fashion
-919,2,8,66,Shopping,Fashion
-1145,2,8,66,Shopping,Fashion
-250,2,8,66,Shopping,Fashion
-236,2,8,66,Shopping,Fashion
-463,2,8,66,Shopping,Fashion
-368,2,8,66,Shopping,Fashion
-245,2,8,66,Shopping,Fashion
-66,1,8,66,Shopping,Fashion
-76,1,8,76,Shopping,"Outdoor Gear"
-105,1,8,105,Shopping,"Musical Instruments & Teachers"
-113,1,8,113,Shopping,"Hardware Stores"
-1127,2,8,114,Shopping,"Home & Garden"
-441,2,8,114,Shopping,"Home & Garden"
-311,2,8,114,Shopping,"Home & Garden"
-276,2,8,114,Shopping,"Home & Garden"
-113,2,8,114,Shopping,"Home & Garden"
-1034,2,8,114,Shopping,"Home & Garden"
-177,2,8,114,Shopping,"Home & Garden"
-1099,2,8,114,Shopping,"Home & Garden"
-172,2,8,114,Shopping,"Home & Garden"
-880,2,8,114,Shopping,"Home & Garden"
-121,2,8,114,Shopping,"Home & Garden"
-385,2,8,114,Shopping,"Home & Garden"
-227,2,8,114,Shopping,"Home & Garden"
-479,2,8,114,Shopping,"Home & Garden"
-1079,2,8,114,Shopping,"Home & Garden"
-114,1,8,114,Shopping,"Home & Garden"
-121,1,8,121,Shopping,Mattresses
-123,1,8,123,Shopping,"Eyewear & Opticians"
-152,1,8,152,Shopping,"Art Galleries"
-154,1,8,154,Shopping,"Toy Stores"
-157,1,8,157,Shopping,Antiques
-165,1,8,165,Shopping,"Mobile Phones"
-172,1,8,172,Shopping,Appliances
-175,1,8,175,Shopping,Electronics
-176,1,8,176,Shopping,"Outlet Stores"
-177,1,8,177,Shopping,"Nurseries & Gardening"
-178,1,8,178,Shopping,"Department Stores"
-218,2,8,192,Shopping,"Arts & Crafts"
-964,2,8,192,Shopping,"Arts & Crafts"
-745,2,8,192,Shopping,"Arts & Crafts"
-216,2,8,192,Shopping,"Arts & Crafts"
-373,2,8,192,Shopping,"Arts & Crafts"
-300,2,8,192,Shopping,"Arts & Crafts"
-193,2,8,192,Shopping,"Arts & Crafts"
-192,1,8,192,Shopping,"Arts & Crafts"
-193,1,8,193,Shopping,"Art Supplies"
-195,1,8,195,Shopping,Bridal
-204,1,8,204,Shopping,"Office Equipment"
-208,1,8,208,Shopping,"Tobacco Shops"
-210,1,8,210,Shopping,Bikes
-213,1,8,213,Shopping,"Cosmetics & Beauty Supply"
-216,1,8,216,Shopping,"Fabric Stores"
-218,1,8,218,Shopping,"Cards & Stationery"
-219,1,8,219,Shopping,"Hobby Shops"
-227,1,8,227,Shopping,"Furniture Stores"
-233,1,8,233,Shopping,"Shoe Stores"
-235,1,8,235,Shopping,Accessories
-236,1,8,236,Shopping,"Women's Clothing"
-241,1,8,241,Shopping,"Newspapers & Magazines"
-242,1,8,242,Shopping,"Music & DVDs"
-245,1,8,245,Shopping,Lingerie
-247,1,8,247,Shopping,"Men's Clothing"
-250,1,8,250,Shopping,"Sports Wear"
-252,1,8,252,Shopping,"Pawn Shops"
-254,1,8,254,Shopping,Watches
-260,1,8,260,Shopping,"Leather Goods"
-274,1,8,274,Shopping,"Comic Books"
-275,1,8,275,Shopping,Luggage
-276,1,8,276,Shopping,"Home Decor"
-277,1,8,277,Shopping,"Vinyl Records"
-278,1,8,278,Shopping,"Shopping Centers"
-300,1,8,300,Shopping,Costumes
-310,1,8,310,Shopping,"Children's Clothing"
-311,1,8,311,Shopping,"Kitchen & Bath"
-324,1,8,324,Shopping,"Thrift Stores"
-326,1,8,326,Shopping,"Knitting Supplies"
-337,1,8,337,Shopping,"Discount Store"
-368,1,8,368,Shopping,"Maternity Wear"
-373,1,8,373,Shopping,Framing
-376,1,8,376,Shopping,"Wholesale Stores"
-385,1,8,385,Shopping,"Hot Tub & Pool"
-393,1,8,393,Shopping,Adult
-404,1,8,404,Shopping,"Baby Gear & Furniture"
-405,1,8,405,Shopping,"Personal Shopping"
-441,1,8,441,Shopping,Linens
-452,1,8,452,Shopping,"Souvenir Shops"
-463,1,8,463,Shopping,Swimwear
-479,1,8,479,Shopping,Tableware
-494,1,8,494,Shopping,"Spiritual Shop"
-497,1,8,497,Shopping,"Concept Shops"
-505,1,8,505,Shopping,"Flea Markets"
-522,1,8,522,Shopping,"Used Bookstore"
-526,1,8,526,Shopping,Perfume
-527,1,8,527,Shopping,Tickets
-528,1,8,528,Shopping,Kiosk
-571,1,8,571,Shopping,Hats
-607,1,8,607,Shopping,"Market Stalls"
-617,1,8,617,Shopping,Uniforms
-620,1,8,620,Shopping,Wigs
-637,1,8,637,Shopping,"Golf Equipment"
-642,1,8,642,Shopping,"Formal Wear"
-657,1,8,657,Shopping,Flowers
-660,1,8,660,Shopping,"Surf Shop"
-661,1,8,661,Shopping,"Gift Shops"
-699,1,8,699,Shopping,Sleepwear
-705,1,8,705,Shopping,"Auction Houses"
-712,1,8,712,Shopping,"Guns & Ammo"
-721,1,8,721,Shopping,"Bespoke Clothing"
-745,1,8,745,Shopping,"Embroidery & Crochet"
-756,1,8,756,Shopping,"Scandinavian Design"
-760,1,8,760,Shopping,Fireworks
-763,1,8,763,Shopping,"Plus Size Fashion"
-782,1,8,782,Shopping,"Chinese Bazaar"
-806,1,8,806,Shopping,"Medical Supplies"
-832,1,8,832,Shopping,"Trophy Shops"
-833,1,8,833,Shopping,"Pop-up Shops"
-835,1,8,835,Shopping,"Motorcycle Gear"
-838,1,8,838,Shopping,"Golf Equipment Shops"
-851,1,8,851,Shopping,Stockings
-853,1,8,853,Shopping,"Pool & Billiards"
-880,1,8,880,Shopping,Rugs
-892,1,8,892,Shopping,"Gold Buyers"
-919,1,8,919,Shopping,Kimonos
-929,1,8,929,Shopping,"Brewing Supplies"
-961,1,8,961,Shopping,"Vape Shops"
-963,1,8,963,Shopping,"Customized Merchandise"
-964,1,8,964,Shopping,"Cooking Classes"
-992,1,8,992,Shopping,"Fitness/Exercise Equipment"
-1019,1,8,1019,Shopping,"High Fidelity Audio Equipment"
-1034,1,8,1034,Shopping,"Materiale elettrico"
-1035,1,8,1035,Shopping,"Horse Equipment Shops"
-1065,1,8,1065,Shopping,"Battery Stores"
-1067,1,8,1067,Shopping,"Video Game Stores"
-1079,1,8,1079,Shopping,"Christmas Trees"
-1088,1,8,1088,Shopping,"Skate Shops"
-1099,1,8,1099,Shopping,"Pumpkin Patches"
-1101,1,8,1101,Shopping,"Ski & Snowboard Shops"
-1127,1,8,1127,Shopping,"Paint Stores"
-1135,1,8,1135,Shopping,"Dive Shops"
-1145,1,8,1145,Shopping,"Clothing Rental"
-1150,1,8,1150,Shopping,"Vitamins & Supplements"
-1151,1,8,1151,Shopping,"Head Shops"
-8,0,8,NULL,Shopping,NULL
-14,1,15,14,"Financial Services","Banks & Credit Unions"
-80,1,15,80,"Financial Services",Investing
-223,1,15,223,"Financial Services","Financial Advising"
-1106,2,15,328,"Financial Services",Insurance
-1107,2,15,328,"Financial Services",Insurance
-1108,2,15,328,"Financial Services",Insurance
-328,1,15,328,"Financial Services",Insurance
-493,1,15,493,"Financial Services","Check Cashing/Pay-day Loans"
-560,1,15,560,"Financial Services","Tax Services"
-980,1,15,980,"Financial Services","Debt Relief Services"
-1046,1,15,1046,"Financial Services","Currency Exchange"
-1106,1,15,1106,"Financial Services","Auto Insurance"
-1107,1,15,1107,"Financial Services","Life Insurance"
-1108,1,15,1108,"Financial Services","Home & Rental Insurance"
-15,0,15,NULL,"Financial Services",NULL
-16,1,18,16,"Hotels & Travel","Airport Shuttles"
-17,1,18,17,"Hotels & Travel",Transportation
-1095,2,18,17,"Hotels & Travel",Transportation
-16,2,18,17,"Hotels & Travel",Transportation
-297,2,18,17,"Hotels & Travel",Transportation
-781,2,18,17,"Hotels & Travel",Transportation
-965,2,18,17,"Hotels & Travel",Transportation
-1066,2,18,17,"Hotels & Travel",Transportation
-414,2,18,17,"Hotels & Travel",Transportation
-182,2,18,17,"Hotels & Travel",Transportation
-987,2,18,17,"Hotels & Travel",Transportation
-794,2,18,17,"Hotels & Travel",Transportation
-720,2,18,17,"Hotels & Travel",Transportation
-1141,2,18,17,"Hotels & Travel",Transportation
-320,2,18,17,"Hotels & Travel",Transportation
-31,1,18,31,"Hotels & Travel","Bed & Breakfast"
-1093,2,18,68,"Hotels & Travel",Hotels
-68,1,18,68,"Hotels & Travel",Hotels
-1045,2,18,68,"Hotels & Travel",Hotels
-1000,2,18,68,"Hotels & Travel",Hotels
-1036,2,18,68,"Hotels & Travel",Hotels
-1051,2,18,68,"Hotels & Travel",Hotels
-122,1,18,122,"Hotels & Travel",Tours
-1001,2,18,122,"Hotels & Travel",Tours
-1016,2,18,122,"Hotels & Travel",Tours
-1003,2,18,122,"Hotels & Travel",Tours
-1015,2,18,122,"Hotels & Travel",Tours
-1025,2,18,122,"Hotels & Travel",Tours
-1021,2,18,122,"Hotels & Travel",Tours
-1014,2,18,122,"Hotels & Travel",Tours
-136,1,18,136,"Hotels & Travel","Car Rental"
-149,1,18,149,"Hotels & Travel","Guest Houses"
-155,1,18,155,"Hotels & Travel","Ski Resorts"
-182,1,18,182,"Hotels & Travel",Limos
-205,1,18,205,"Hotels & Travel",Airports
-297,1,18,297,"Hotels & Travel",Taxis
-320,1,18,320,"Hotels & Travel","Public Transportation"
-331,1,18,331,"Hotels & Travel","Travel Services"
-338,1,18,338,"Hotels & Travel",Campgrounds
-414,1,18,414,"Hotels & Travel",Airlines
-419,1,18,419,"Hotels & Travel",Hostels
-442,1,18,442,"Hotels & Travel","Vacation Rental Agents"
-448,1,18,448,"Hotels & Travel","RV Rental"
-498,1,18,498,"Hotels & Travel","Train Stations"
-667,1,18,667,"Hotels & Travel","Motorcycle Rental"
-687,1,18,687,"Hotels & Travel",Resorts
-720,1,18,720,"Hotels & Travel","Water Taxis"
-758,1,18,758,"Hotels & Travel","Vacation Rentals"
-781,1,18,781,"Hotels & Travel",Ferries
-794,1,18,794,"Hotels & Travel","Dolmus Station"
-827,1,18,827,"Hotels & Travel","RV Parks"
-885,1,18,885,"Hotels & Travel","Health Retreats"
-965,1,18,965,"Hotels & Travel",Buses
-987,1,18,987,"Hotels & Travel",Trains
-1000,1,18,1000,"Hotels & Travel",Agriturismi
-1001,1,18,1001,"Hotels & Travel","Architectural Tours"
-1003,1,18,1003,"Hotels & Travel","Walking Tours"
-1014,1,18,1014,"Hotels & Travel","Bus Tours"
-1015,1,18,1015,"Hotels & Travel","Historical Tours"
-1016,1,18,1016,"Hotels & Travel","Art Tours"
-1021,1,18,1021,"Hotels & Travel","Food Tours"
-1025,1,18,1025,"Hotels & Travel","Wine Tours"
-1036,1,18,1036,"Hotels & Travel",Pensions
-1045,1,18,1045,"Hotels & Travel",Residences
-1051,1,18,1051,"Hotels & Travel","Rest Stops"
-1066,1,18,1066,"Hotels & Travel","Bike Sharing"
-1093,1,18,1093,"Hotels & Travel","Mountain Huts"
-1095,1,18,1095,"Hotels & Travel",Pedicabs
-1141,1,18,1141,"Hotels & Travel","Cable Cars"
-18,0,18,NULL,"Hotels & Travel",NULL
-20,1,19,20,"Professional Services",Lawyers
-569,2,19,20,"Professional Services",Lawyers
-305,2,19,20,"Professional Services",Lawyers
-798,2,19,20,"Professional Services",Lawyers
-352,2,19,20,"Professional Services",Lawyers
-256,2,19,20,"Professional Services",Lawyers
-558,2,19,20,"Professional Services",Lawyers
-922,2,19,20,"Professional Services",Lawyers
-264,2,19,20,"Professional Services",Lawyers
-559,2,19,20,"Professional Services",Lawyers
-664,2,19,20,"Professional Services",Lawyers
-804,2,19,20,"Professional Services",Lawyers
-986,2,19,20,"Professional Services",Lawyers
-561,2,19,20,"Professional Services",Lawyers
-93,1,19,93,"Professional Services",Accountants
-128,1,19,128,"Professional Services",Architects
-153,1,19,153,"Professional Services","Web Design"
-212,1,19,212,"Professional Services","Employment Agencies"
-256,1,19,256,"Professional Services","Bankruptcy Law"
-264,1,19,264,"Professional Services","Divorce & Family Law"
-283,1,19,283,"Professional Services","Internet Service Providers"
-305,1,19,305,"Professional Services","Personal Injury Law"
-312,1,19,312,"Professional Services","Graphic Design"
-330,1,19,330,"Professional Services","Office Cleaning"
-334,1,19,334,"Professional Services",Marketing
-352,1,19,352,"Professional Services","General Litigation"
-416,1,19,416,"Professional Services","Public Relations"
-417,1,19,417,"Professional Services","Career Counseling"
-429,1,19,429,"Professional Services","Private Investigation"
-435,1,19,435,"Professional Services","Video/Film Production"
-446,1,19,446,"Professional Services",Advertising
-459,1,19,459,"Professional Services","Security Services"
-487,1,19,487,"Professional Services","Life Coach"
-558,1,19,558,"Professional Services","Immigration Law"
-559,1,19,559,"Professional Services","Real Estate Law"
-561,1,19,561,"Professional Services","Estate Planning Law"
-569,1,19,569,"Professional Services","Criminal Defense Law"
-577,1,19,577,"Professional Services","Personal Assistants"
-593,1,19,593,"Professional Services","Translation Services"
-664,1,19,664,"Professional Services","Employment Law"
-703,1,19,703,"Professional Services","Boat Repair"
-726,1,19,726,"Professional Services",Matchmakers
-733,1,19,733,"Professional Services","Talent Agencies"
-798,1,19,798,"Professional Services","DUI Law"
-804,1,19,804,"Professional Services","Business Law"
-816,1,19,816,"Professional Services","Editorial Services"
-839,1,19,839,"Professional Services",Taxidermy
-845,1,19,845,"Professional Services","Legal Services"
-847,1,19,847,"Professional Services","Payroll Services"
-881,1,19,881,"Professional Services","Patent Law"
-887,1,19,887,"Professional Services",Signmaking
-922,1,19,922,"Professional Services","Tax Law"
-959,1,19,959,"Professional Services","Shredding Services"
-972,1,19,972,"Professional Services","Software Development"
-986,1,19,986,"Professional Services","IP & Internet Law"
-991,1,19,991,"Professional Services","Tenant and Eviction Law"
-1048,1,19,1048,"Professional Services","Music Production Services"
-1105,1,19,1105,"Professional Services","Business Consulting"
-19,0,19,NULL,"Professional Services",NULL
-21,1,22,21,"Local Services","Dry Cleaning & Laundry"
-37,1,22,37,"Local Services","Child Care & Day Care"
-47,1,22,47,"Local Services","Funeral Services & Cemeteries"
-102,1,22,102,"Local Services","Community Service/Non-Profit"
-1069,2,22,102,"Local Services","Community Service/Non-Profit"
-124,1,22,124,"Local Services","Printing Services"
-126,1,22,126,"Local Services","Carpet Cleaning"
-141,1,22,141,"Local Services","IT Services & Computer Repair"
-671,2,22,141,"Local Services","IT Services & Computer Repair"
-734,2,22,141,"Local Services","IT Services & Computer Repair"
-918,2,22,141,"Local Services","IT Services & Computer Repair"
-163,1,22,163,"Local Services",Notaries
-173,1,22,173,"Local Services","Appliances & Repair"
-200,1,22,200,"Local Services","Self Storage"
-206,1,22,206,"Local Services","Furniture Reupholstery"
-214,1,22,214,"Local Services","Pest Control"
-221,1,22,221,"Local Services","Sewing & Alterations"
-228,1,22,228,"Local Services","Couriers & Delivery Services"
-249,1,22,249,"Local Services","Shoe Repair"
-303,1,22,303,"Local Services","Recording & Rehearsal Studios"
-382,1,22,382,"Local Services","Shipping Centers"
-388,1,22,388,"Local Services","Junk Removal & Hauling"
-397,1,22,397,"Local Services","Electronics Repair"
-406,1,22,406,"Local Services","Watch Repair"
-474,1,22,474,"Local Services","Recycling Center"
-555,1,22,555,"Local Services","Record Labels"
-591,1,22,591,"Local Services","Screen Printing/T-Shirt Printing"
-601,1,22,601,"Local Services","Youth Club"
-630,1,22,630,"Local Services","Snow Removal"
-671,1,22,671,"Local Services","Data Recovery"
-694,1,22,694,"Local Services","Screen Printing"
-710,1,22,710,"Local Services","Bike Repair/Maintenance"
-734,1,22,734,"Local Services","Mobile Phone Repair"
-740,1,22,740,"Local Services","Bail Bondsmen"
-828,1,22,828,"Local Services","Jewelry Repair"
-857,1,22,857,"Local Services","Nanny Services"
-868,1,22,868,"Local Services",Propane
-869,1,22,869,"Local Services","Metal Fabricators"
-918,1,22,918,"Local Services",Telecommunications
-958,1,22,958,"Local Services","Water Delivery"
-971,1,22,971,"Local Services","Internet Booths & Calling Centers"
-988,1,22,988,"Local Services","Septic Services"
-990,1,22,990,"Local Services","Knife Sharpening"
-998,1,22,998,"Local Services","Furniture Repair"
-1011,1,22,1011,"Local Services","Powder Coating"
-1018,1,22,1018,"Local Services","Appraisal Services"
-1023,1,22,1023,"Local Services",Bookbinding
-1041,1,22,1041,"Local Services","Piano Services"
-1042,1,22,1042,"Local Services","Musical Instrument Services"
-1041,2,22,1042,"Local Services","Musical Instrument Services"
-1104,2,22,1042,"Local Services","Musical Instrument Services"
-1086,2,22,1042,"Local Services","Musical Instrument Services"
-1049,1,22,1049,"Local Services","Mailbox Centers"
-1069,1,22,1069,"Local Services","Food Banks"
-1082,1,22,1082,"Local Services","Adoption Services"
-1086,1,22,1086,"Local Services","Piano Stores"
-1104,1,22,1104,"Local Services","Guitar Stores"
-1113,1,22,1113,"Local Services","Machine & Tool Rental"
-1120,1,22,1120,"Local Services","Community Gardens"
-1154,1,22,1154,"Local Services","Furniture Rental"
-22,0,22,NULL,"Local Services",NULL
-24,1,23,24,Restaurants,Thai
-27,1,23,27,Restaurants,Soup
-28,1,23,28,Restaurants,Sandwiches
-39,1,23,39,Restaurants,Chinese
-777,2,23,39,Restaurants,Chinese
-1031,2,23,39,Restaurants,Chinese
-997,2,23,39,Restaurants,Chinese
-1024,2,23,39,Restaurants,Chinese
-741,2,23,39,Restaurants,Chinese
-614,2,23,39,Restaurants,Chinese
-735,2,23,39,Restaurants,Chinese
-731,2,23,39,Restaurants,Chinese
-696,2,23,39,Restaurants,Chinese
-361,2,23,39,Restaurants,Chinese
-746,2,23,39,Restaurants,Chinese
-639,2,23,39,Restaurants,Chinese
-50,1,23,50,Restaurants,"American (Traditional)"
-60,1,23,60,Restaurants,"American (New)"
-71,1,23,71,Restaurants,Korean
-78,1,23,78,Restaurants,Mexican
-943,2,23,78,Restaurants,Mexican
-940,2,23,78,Restaurants,Mexican
-949,2,23,78,Restaurants,Mexican
-935,2,23,78,Restaurants,Mexican
-923,2,23,78,Restaurants,Mexican
-931,2,23,78,Restaurants,Mexican
-907,2,23,78,Restaurants,Mexican
-917,2,23,78,Restaurants,Mexican
-98,1,23,98,Restaurants,Pizza
-100,1,23,100,Restaurants,"Asian Fusion"
-108,1,23,108,Restaurants,Indian
-119,1,23,119,Restaurants,Delis
-135,1,23,135,Restaurants,Japanese
-947,2,23,135,Restaurants,Japanese
-955,2,23,135,Restaurants,Japanese
-920,2,23,135,Restaurants,Japanese
-956,2,23,135,Restaurants,Japanese
-676,2,23,135,Restaurants,Japanese
-942,2,23,135,Restaurants,Japanese
-938,2,23,135,Restaurants,Japanese
-937,2,23,135,Restaurants,Japanese
-916,2,23,135,Restaurants,Japanese
-932,2,23,135,Restaurants,Japanese
-913,2,23,135,Restaurants,Japanese
-1022,2,23,135,Restaurants,Japanese
-906,2,23,135,Restaurants,Japanese
-930,2,23,135,Restaurants,Japanese
-946,2,23,135,Restaurants,Japanese
-786,2,23,135,Restaurants,Japanese
-866,2,23,135,Restaurants,Japanese
-646,2,23,135,Restaurants,Japanese
-1026,2,23,135,Restaurants,Japanese
-908,2,23,135,Restaurants,Japanese
-1002,2,23,135,Restaurants,Japanese
-953,2,23,135,Restaurants,Japanese
-1047,2,23,135,Restaurants,Japanese
-1005,2,23,135,Restaurants,Japanese
-914,2,23,135,Restaurants,Japanese
-924,2,23,135,Restaurants,Japanese
-925,2,23,135,Restaurants,Japanese
-939,2,23,135,Restaurants,Japanese
-143,1,23,143,Restaurants,Italian
-662,2,23,143,Restaurants,Italian
-747,2,23,143,Restaurants,Italian
-708,2,23,143,Restaurants,Italian
-645,2,23,143,Restaurants,Italian
-663,2,23,143,Restaurants,Italian
-702,2,23,143,Restaurants,Italian
-750,2,23,143,Restaurants,Italian
-1064,2,23,143,Restaurants,Italian
-588,2,23,143,Restaurants,Italian
-649,2,23,143,Restaurants,Italian
-1004,2,23,143,Restaurants,Italian
-621,2,23,143,Restaurants,Italian
-722,2,23,143,Restaurants,Italian
-570,2,23,143,Restaurants,Italian
-872,2,23,143,Restaurants,Italian
-766,2,23,143,Restaurants,Italian
-151,1,23,151,Restaurants,Greek
-190,1,23,190,Restaurants,"Hot Dogs"
-191,1,23,191,Restaurants,Burgers
-237,1,23,237,Restaurants,Spanish
-725,2,23,237,Restaurants,Spanish
-239,1,23,239,Restaurants,Basque
-244,1,23,244,Restaurants,"Chicken Wings"
-248,1,23,248,Restaurants,Seafood
-257,1,23,257,Restaurants,Mediterranean
-893,2,23,257,Restaurants,Mediterranean
-265,1,23,265,Restaurants,Portuguese
-896,2,23,265,Restaurants,Portuguese
-936,2,23,265,Restaurants,Portuguese
-899,2,23,265,Restaurants,Portuguese
-902,2,23,265,Restaurants,Portuguese
-895,2,23,265,Restaurants,Portuguese
-900,2,23,265,Restaurants,Portuguese
-904,2,23,265,Restaurants,Portuguese
-901,2,23,265,Restaurants,Portuguese
-921,2,23,265,Restaurants,Portuguese
-266,1,23,266,Restaurants,"Breakfast & Brunch"
-272,1,23,272,Restaurants,"Sushi Bars"
-273,1,23,273,Restaurants,Taiwanese
-280,1,23,280,Restaurants,"Fast Food"
-285,1,23,285,Restaurants,"Middle Eastern"
-579,2,23,285,Restaurants,"Middle Eastern"
-529,2,23,285,Restaurants,"Middle Eastern"
-286,1,23,286,Restaurants,Moroccan
-287,1,23,287,Restaurants,Pakistani
-288,1,23,288,Restaurants,Vegetarian
-298,1,23,298,Restaurants,Vietnamese
-302,1,23,302,Restaurants,Kosher
-307,1,23,307,Restaurants,Diners
-309,1,23,309,Restaurants,Cuban
-313,1,23,313,Restaurants,"Latin American"
-757,2,23,313,Restaurants,"Latin American"
-670,2,23,313,Restaurants,"Latin American"
-701,2,23,313,Restaurants,"Latin American"
-323,1,23,323,Restaurants,French
-1070,2,23,323,Restaurants,French
-1075,2,23,323,Restaurants,French
-1071,2,23,323,Restaurants,French
-1074,2,23,323,Restaurants,French
-1076,2,23,323,Restaurants,French
-1072,2,23,323,Restaurants,French
-329,1,23,329,Restaurants,Irish
-332,1,23,332,Restaurants,Steakhouses
-339,1,23,339,Restaurants,Barbeque
-346,1,23,346,Restaurants,Vegan
-348,1,23,348,Restaurants,Caribbean
-764,2,23,348,Restaurants,Caribbean
-762,2,23,348,Restaurants,Caribbean
-644,2,23,348,Restaurants,Caribbean
-748,2,23,348,Restaurants,Caribbean
-349,1,23,349,Restaurants,Brazilian
-863,2,23,349,Restaurants,Brazilian
-860,2,23,349,Restaurants,Brazilian
-864,2,23,349,Restaurants,Brazilian
-865,2,23,349,Restaurants,Brazilian
-862,2,23,349,Restaurants,Brazilian
-361,1,23,361,Restaurants,"Dim Sum"
-369,1,23,369,Restaurants,"Soul Food"
-387,1,23,387,Restaurants,Cheesesteaks
-389,1,23,389,Restaurants,"Tapas Bars"
-390,1,23,390,Restaurants,German
-819,2,23,390,Restaurants,German
-813,2,23,390,Restaurants,German
-823,2,23,390,Restaurants,German
-824,2,23,390,Restaurants,German
-821,2,23,390,Restaurants,German
-822,2,23,390,Restaurants,German
-391,1,23,391,Restaurants,Buffets
-395,1,23,395,Restaurants,"Fish & Chips"
-402,1,23,402,Restaurants,Tex-Mex
-769,2,23,423,Restaurants,African
-665,2,23,423,Restaurants,African
-423,1,23,423,Restaurants,African
-424,1,23,424,Restaurants,Gastropubs
-426,1,23,426,Restaurants,Ethiopian
-431,1,23,431,Restaurants,Peruvian
-434,1,23,434,Restaurants,Singaporean
-436,1,23,436,Restaurants,Malaysian
-695,2,23,436,Restaurants,Malaysian
-594,2,23,436,Restaurants,Malaysian
-437,1,23,437,Restaurants,Gluten-Free
-440,1,23,440,Restaurants,Cajun/Creole
-443,1,23,443,Restaurants,Cambodian
-444,1,23,444,Restaurants,Cafes
-445,1,23,445,Restaurants,Halal
-449,1,23,449,Restaurants,"Live/Raw Food"
-450,1,23,450,Restaurants,"Food Stands"
-455,1,23,455,Restaurants,Filipino
-457,1,23,457,Restaurants,British
-458,1,23,458,Restaurants,Southern
-461,1,23,461,Restaurants,Turkish
-791,2,23,461,Restaurants,Turkish
-796,2,23,461,Restaurants,Turkish
-1136,2,23,461,Restaurants,Turkish
-1134,2,23,461,Restaurants,Turkish
-795,2,23,461,Restaurants,Turkish
-462,1,23,462,Restaurants,Hungarian
-464,1,23,464,Restaurants,Creperies
-465,1,23,465,Restaurants,"Tapas/Small Plates"
-466,1,23,466,Restaurants,Russian
-468,1,23,468,Restaurants,Polish
-775,2,23,468,Restaurants,Polish
-472,1,23,472,Restaurants,Afghan
-477,1,23,477,Restaurants,Argentine
-480,1,23,480,Restaurants,Belgian
-1073,2,23,480,Restaurants,Belgian
-481,1,23,481,Restaurants,Fondue
-482,1,23,482,Restaurants,Brasseries
-483,1,23,483,Restaurants,Himalayan/Nepalese
-484,1,23,484,Restaurants,Persian/Iranian
-488,1,23,488,Restaurants,Indonesian
-490,1,23,490,Restaurants,"Modern European"
-491,1,23,491,Restaurants,Romanian
-492,1,23,492,Restaurants,Kebab
-508,1,23,508,Restaurants,Mongolian
-510,1,23,510,Restaurants,Burmese
-511,1,23,511,Restaurants,Hawaiian
-516,1,23,516,Restaurants,Bistros
-518,1,23,518,Restaurants,Scandinavian
-520,1,23,520,Restaurants,Ukrainian
-521,1,23,521,Restaurants,International
-529,1,23,529,Restaurants,Lebanese
-532,1,23,532,Restaurants,Australian
-533,1,23,533,Restaurants,"Beer Hall"
-534,1,23,534,Restaurants,Bulgarian
-535,1,23,535,Restaurants,Canteen
-539,1,23,539,Restaurants,Israeli
-540,1,23,540,Restaurants,Austrian
-541,1,23,541,Restaurants,"Serbo Croatian"
-542,1,23,542,Restaurants,Oriental
-543,1,23,543,Restaurants,Scottish
-545,1,23,545,Restaurants,"French Southwest"
-546,1,23,546,Restaurants,Bavarian
-547,1,23,547,Restaurants,"Parent Cafes"
-548,1,23,548,Restaurants,Corsican
-549,1,23,549,Restaurants,"Beer Garden"
-550,1,23,550,Restaurants,"Curry Sausage"
-551,1,23,551,Restaurants,Arabian
-861,2,23,551,Restaurants,Arabian
-553,1,23,553,Restaurants,Swabian
-556,1,23,556,Restaurants,Lyonnais
-570,1,23,570,Restaurants,Sicilian
-574,1,23,574,Restaurants,"Comfort Food"
-578,1,23,578,Restaurants,"Signature Cuisine"
-579,1,23,579,Restaurants,Egyptian
-582,1,23,582,Restaurants,Poutineries
-588,1,23,588,Restaurants,"Cucina campana"
-590,1,23,590,Restaurants,"Eastern European"
-592,1,23,592,Restaurants,Wraps
-594,1,23,594,Restaurants,Mamak
-600,1,23,600,Restaurants,Parma
-604,1,23,604,Restaurants,Georgian
-606,1,23,606,Restaurants,Rumanian
-608,1,23,608,Restaurants,Salad
-614,1,23,614,Restaurants,Cantonese
-616,1,23,616,Restaurants,Swedish
-619,1,23,619,Restaurants,"Island Pub"
-621,1,23,621,Restaurants,Altoatesine
-623,1,23,623,Restaurants,"Milk Bars"
-628,1,23,628,Restaurants,"Night Food"
-632,1,23,632,Restaurants,Galician
-638,1,23,638,Restaurants,"Chicken Shop"
-639,1,23,639,Restaurants,Szechuan
-640,1,23,640,Restaurants,Potatoes
-644,1,23,644,Restaurants,"Puerto Rican"
-645,1,23,645,Restaurants,Lumbard
-646,1,23,646,Restaurants,Teppanyaki
-647,1,23,647,Restaurants,Tabernas
-649,1,23,649,Restaurants,Emilian
-651,1,23,651,Restaurants,"Traditional Norwegian"
-659,1,23,659,Restaurants,Danish
-662,1,23,662,Restaurants,Tuscan
-663,1,23,663,Restaurants,Friulan
-665,1,23,665,Restaurants,Senegalese
-669,1,23,669,Restaurants,"Rotisserie Chicken"
-670,1,23,670,Restaurants,Salvadoran
-672,1,23,672,Restaurants,"Traditional Swedish"
-673,1,23,673,Restaurants,"Modern Australian"
-676,1,23,676,Restaurants,Izakaya
-681,1,23,681,Restaurants,Wok
-688,1,23,688,Restaurants,Asturian
-691,1,23,691,Restaurants,"Open Sandwiches"
-692,1,23,692,Restaurants,Czech/Slovakian
-695,1,23,695,Restaurants,Nyonya
-696,1,23,696,Restaurants,Henghwa
-701,1,23,701,Restaurants,Colombian
-702,1,23,702,Restaurants,Ligurian
-708,1,23,708,Restaurants,Roman
-709,1,23,709,Restaurants,"Canadian (New)"
-714,1,23,714,Restaurants,Laos
-718,1,23,718,Restaurants,Yugoslav
-722,1,23,722,Restaurants,Apulian
-725,1,23,725,Restaurants,"Arroceria / Paella"
-729,1,23,729,Restaurants,Kurdish
-731,1,23,731,Restaurants,Teochew
-735,1,23,735,Restaurants,Hokkien
-736,1,23,736,Restaurants,"Hot Pot"
-738,1,23,738,Restaurants,Catalan
-739,1,23,739,Restaurants,"Swiss Food"
-741,1,23,741,Restaurants,Hakka
-743,1,23,743,Restaurants,Laotian
-744,1,23,744,Restaurants,"Food Court"
-746,1,23,746,Restaurants,Fuzhou
-747,1,23,747,Restaurants,Calabrian
-748,1,23,748,Restaurants,Trinidadian
-750,1,23,750,Restaurants,Sardinian
-751,1,23,751,Restaurants,"Pub Food"
-754,1,23,754,Restaurants,Cafeteria
-755,1,23,755,Restaurants,Bangladeshi
-757,1,23,757,Restaurants,Venezuelan
-759,1,23,759,Restaurants,Jewish
-762,1,23,762,Restaurants,Haitian
-764,1,23,764,Restaurants,Dominican
-766,1,23,766,Restaurants,Venetian
-768,1,23,768,Restaurants,Cypriot
-769,1,23,769,Restaurants,"South African"
-772,1,23,772,Restaurants,Chech
-775,1,23,775,Restaurants,Pierogis
-776,1,23,776,Restaurants,Venison
-777,1,23,777,Restaurants,Shanghainese
-779,1,23,779,Restaurants,Iberian
-786,1,23,786,Restaurants,Ramen
-788,1,23,788,Restaurants,Pita
-789,1,23,789,Restaurants,"Black Sea"
-790,1,23,790,Restaurants,Giblets
-791,1,23,791,Restaurants,"Chee Kufta"
-792,1,23,792,Restaurants,Meatballs
-793,1,23,793,Restaurants,Rice
-795,1,23,795,Restaurants,"Turkish Ravioli"
-796,1,23,796,Restaurants,Gozleme
-813,1,23,813,Restaurants,"Northern German"
-814,1,23,814,Restaurants,Baguettes
-819,1,23,819,Restaurants,Hessian
-821,1,23,821,Restaurants,Baden
-822,1,23,822,Restaurants,Palatine
-823,1,23,823,Restaurants,"Eastern German"
-824,1,23,824,Restaurants,Rhinelandian
-834,1,23,834,Restaurants,"New Zealand"
-836,1,23,836,Restaurants,Armenian
-849,1,23,849,Restaurants,Beisl
-850,1,23,850,Restaurants,Heuriger
-855,1,23,855,Restaurants,Slovakian
-859,1,23,859,Restaurants,Czech
-860,1,23,860,Restaurants,"Brazilian Empanadas"
-861,1,23,861,Restaurants,"Arab Pizza"
-862,1,23,862,Restaurants,"Northeastern Brazilian"
-863,1,23,863,Restaurants,"Central Brazilian"
-864,1,23,864,Restaurants,Rodizios
-865,1,23,865,Restaurants,"Northern Brazilian"
-866,1,23,866,Restaurants,"Hand Rolls"
-872,1,23,872,Restaurants,Napoletana
-893,1,23,893,Restaurants,Falafel
-895,1,23,895,Restaurants,Tras-os-Montes
-896,1,23,896,Restaurants,Alentejo
-899,1,23,899,Restaurants,Algarve
-900,1,23,900,Restaurants,Minho
-901,1,23,901,Restaurants,"Fado Houses"
-902,1,23,902,Restaurants,Ribatejo
-904,1,23,904,Restaurants,Beira
-906,1,23,906,Restaurants,"Japanese Curry"
-907,1,23,907,Restaurants,Tacos
-908,1,23,908,Restaurants,Udon
-913,1,23,913,Restaurants,Tonkatsu
-914,1,23,914,Restaurants,Unagi
-916,1,23,916,Restaurants,Okonomiyaki
-917,1,23,917,Restaurants,Yucatan
-920,1,23,920,Restaurants,"Conveyor Belt Sushi"
-921,1,23,921,Restaurants,Madeira
-923,1,23,923,Restaurants,Jaliscan
-924,1,23,924,Restaurants,Oyakodon
-925,1,23,925,Restaurants,Donburi
-930,1,23,930,Restaurants,Tempura
-931,1,23,931,Restaurants,"Eastern Mexican"
-932,1,23,932,Restaurants,Kaiseki
-935,1,23,935,Restaurants,Oaxacan
-936,1,23,936,Restaurants,Azores
-937,1,23,937,Restaurants,Gyudon
-938,1,23,938,Restaurants,Okinawan
-939,1,23,939,Restaurants,"Western Style Japanese Food"
-940,1,23,940,Restaurants,Tamales
-942,1,23,942,Restaurants,Kushikatsu
-943,1,23,943,Restaurants,Pueblan
-946,1,23,946,Restaurants,Blowfish
-947,1,23,947,Restaurants,Soba
-948,1,23,948,Restaurants,Dumplings
-949,1,23,949,Restaurants,"Northern Mexican"
-953,1,23,953,Restaurants,Sukiyaki
-955,1,23,955,Restaurants,Oden
-956,1,23,956,Restaurants,Yakitori
-984,1,23,984,Restaurants,Uzbek
-997,1,23,997,Restaurants,Congee
-999,1,23,999,Restaurants,"Hong Kong Style Cafe"
-1002,1,23,1002,Restaurants,Yakiniku
-1004,1,23,1004,Restaurants,Piemonte
-1005,1,23,1005,Restaurants,Takoyaki
-1022,1,23,1022,Restaurants,Onigiri
-1024,1,23,1024,Restaurants,Pekinese
-1026,1,23,1026,Restaurants,Horumon
-1028,1,23,1028,Restaurants,Chilean
-1029,1,23,1029,Restaurants,Norcinerie
-1031,1,23,1031,Restaurants,Hunan
-1032,1,23,1032,Restaurants,Trattorie
-1047,1,23,1047,Restaurants,Robatayaki
-1055,1,23,1055,Restaurants,Fischbroetchen
-1064,1,23,1064,Restaurants,Abruzzese
-1070,1,23,1070,Restaurants,Alsatian
-1071,1,23,1071,Restaurants,Auvergnat
-1072,1,23,1072,Restaurants,Nicoise
-1073,1,23,1073,Restaurants,Flemish
-1074,1,23,1074,Restaurants,Provencal
-1075,1,23,1075,Restaurants,Bourguignon
-1076,1,23,1076,Restaurants,Berrichon
-1092,1,23,1092,Restaurants,"Sri Lankan"
-1128,1,23,1128,Restaurants,"Supper Clubs"
-1134,1,23,1134,Restaurants,"Homemade Food"
-1136,1,23,1136,Restaurants,Lahmacun
-1155,1,23,1155,Restaurants,Kopitiam
-23,0,23,NULL,Restaurants,NULL
-26,1,25,26,"Beauty & Spas",Barbers
-53,1,25,53,"Beauty & Spas","Hair Salons"
-643,2,25,53,"Beauty & Spas","Hair Salons"
-799,2,25,53,"Beauty & Spas","Hair Salons"
-580,2,25,53,"Beauty & Spas","Hair Salons"
-655,2,25,53,"Beauty & Spas","Hair Salons"
-77,1,25,77,"Beauty & Spas",Massage
-291,2,25,103,"Beauty & Spas","Hair Removal"
-1058,2,25,103,"Beauty & Spas","Hair Removal"
-996,2,25,103,"Beauty & Spas","Hair Removal"
-103,1,25,103,"Beauty & Spas","Hair Removal"
-116,1,25,116,"Beauty & Spas",Tattoo
-138,1,25,138,"Beauty & Spas",Piercing
-148,1,25,148,"Beauty & Spas",Tanning
-854,2,25,148,"Beauty & Spas",Tanning
-846,2,25,148,"Beauty & Spas",Tanning
-167,1,25,167,"Beauty & Spas","Nail Salons"
-184,1,25,184,"Beauty & Spas","Day Spas"
-213,1,25,213,"Beauty & Spas","Cosmetics & Beauty Supply"
-263,1,25,263,"Beauty & Spas","Skin Care"
-291,1,25,291,"Beauty & Spas","Laser Hair Removal"
-343,1,25,343,"Beauty & Spas","Eyelash Service"
-357,1,25,357,"Beauty & Spas","Makeup Artists"
-413,1,25,413,"Beauty & Spas","Medical Spas"
-526,1,25,526,"Beauty & Spas",Perfume
-580,1,25,580,"Beauty & Spas","Hair Stylists"
-643,1,25,643,"Beauty & Spas","Men's Hair Salons"
-655,1,25,655,"Beauty & Spas","Hair Extensions"
-771,1,25,771,"Beauty & Spas",Rolfing
-799,1,25,799,"Beauty & Spas","Blow Dry/Out Services"
-829,1,25,829,"Beauty & Spas","Permanent Makeup"
-846,1,25,846,"Beauty & Spas","Spray Tanning"
-854,1,25,854,"Beauty & Spas","Tanning Beds"
-996,1,25,996,"Beauty & Spas",Waxing
-1020,1,25,1020,"Beauty & Spas","Erotic Massage"
-1058,1,25,1058,"Beauty & Spas",Sugaring
-1087,1,25,1087,"Beauty & Spas","Hair Loss Centers"
-1143,1,25,1143,"Beauty & Spas","Hot Springs"
-25,0,25,NULL,"Beauty & Spas",NULL
-30,1,29,30,Food,"Convenience Stores"
-38,1,29,38,Food,"Juice Bars & Smoothies"
-62,1,29,62,Food,Breweries
-67,1,29,67,Food,Bakeries
-308,2,29,72,Food,"Specialty Food"
-954,2,29,72,Food,"Specialty Food"
-1060,2,29,72,Food,"Specialty Food"
-171,2,29,72,Food,"Specialty Food"
-321,2,29,72,Food,"Specialty Food"
-1116,2,29,72,Food,"Specialty Food"
-174,2,29,72,Food,"Specialty Food"
-279,2,29,72,Food,"Specialty Food"
-90,2,29,72,Food,"Specialty Food"
-73,2,29,72,Food,"Specialty Food"
-194,2,29,72,Food,"Specialty Food"
-1121,2,29,72,Food,"Specialty Food"
-563,2,29,72,Food,"Specialty Food"
-72,1,29,72,Food,"Specialty Food"
-73,1,29,73,Food,"Seafood Markets"
-74,1,29,74,Food,"Beer, Wine & Spirits"
-88,1,29,88,Food,Grocery
-89,1,29,89,Food,"Ice Cream & Frozen Yogurt"
-90,1,29,90,Food,"Fruits & Veggies"
-99,1,29,99,Food,"Coffee & Tea"
-171,1,29,171,Food,"Candy Stores"
-174,1,29,174,Food,"Health Markets"
-194,1,29,194,Food,"Meat Shops"
-229,1,29,229,Food,Donuts
-231,1,29,231,Food,Desserts
-232,1,29,232,Food,Bagels
-279,1,29,279,Food,"Chocolatiers & Shops"
-301,1,29,301,Food,"Food Delivery Services"
-306,1,29,306,Food,"Farmers Market"
-308,1,29,308,Food,"Cheese Shops"
-321,1,29,321,Food,"Ethnic Food"
-358,1,29,358,Food,"Internet Cafes"
-362,1,29,362,Food,Wineries
-1110,2,29,362,Food,Wineries
-396,1,29,396,Food,Delicatessen
-410,1,29,410,Food,"Tea Rooms"
-454,1,29,454,Food,"Organic Stores"
-475,1,29,475,Food,"Do-It-Yourself Food"
-523,1,29,523,Food,"Beverage Store"
-528,1,29,528,Food,Kiosk
-547,1,29,547,Food,"Parent Cafes"
-557,1,29,557,Food,Butcher
-563,1,29,563,Food,"Herbs & Spices"
-581,1,29,581,Food,Friterie
-618,1,29,618,Food,CSA
-631,1,29,631,Food,Churros
-683,1,29,683,Food,Donairs
-706,1,29,706,Food,"Bubble Tea"
-713,1,29,713,Food,"Patisserie/Cake Shop"
-732,1,29,732,Food,"Shaved Ice"
-767,1,29,767,Food,"Street Vendors"
-780,1,29,780,Food,"Ethic Grocery"
-783,1,29,783,Food,Gelato
-784,1,29,784,Food,"Food Trucks"
-815,1,29,815,Food,Pretzels
-837,1,29,837,Food,Zapiekanka
-843,1,29,843,Food,"Mulled Wine"
-870,1,29,870,Food,Cupcakes
-884,1,29,884,Food,"Milkshake Bars"
-897,1,29,897,Food,Fishmonger
-903,1,29,903,Food,"Ethnic Grocery"
-915,1,29,915,Food,"Japanese Sweets"
-926,1,29,926,Food,Honey
-927,1,29,927,Food,Distilleries
-954,1,29,954,Food,"Tofu Shops"
-975,1,29,975,Food,"Coffee & Tea Supplies"
-1008,1,29,1008,Food,Salumerie
-1060,1,29,1060,Food,"Pasta Shops"
-1090,1,29,1090,Food,Piadina
-1094,1,29,1094,Food,"Hawker Centre"
-1098,1,29,1098,Food,Panzerotti
-1110,1,29,1110,Food,"Wine Tasting Room"
-1115,1,29,1115,Food,Tortillas
-1116,1,29,1116,Food,"Popcorn Shops"
-1119,1,29,1119,Food,Torshi
-1121,1,29,1121,Food,Macarons
-1148,1,29,1148,Food,"Nasi Lemak"
-1153,1,29,1153,Food,Backshop
-29,0,29,NULL,Food,NULL
-32,1,33,32,"Event Planning & Services","Venues & Event Spaces"
-63,1,33,63,"Event Planning & Services",Photographers
-629,2,33,63,"Event Planning & Services",Photographers
-678,2,33,63,"Event Planning & Services",Photographers
-68,1,33,68,"Event Planning & Services",Hotels
-1093,2,33,68,"Event Planning & Services",Hotels
-1045,2,33,68,"Event Planning & Services",Hotels
-1000,2,33,68,"Event Planning & Services",Hotels
-1036,2,33,68,"Event Planning & Services",Hotels
-1051,2,33,68,"Event Planning & Services",Hotels
-91,1,33,91,"Event Planning & Services",Caterers
-130,1,33,130,"Event Planning & Services","Party & Event Planning"
-180,1,33,180,"Event Planning & Services",DJs
-218,1,33,218,"Event Planning & Services","Cards & Stationery"
-282,1,33,282,"Event Planning & Services","Party Supplies"
-379,1,33,379,"Event Planning & Services","Boat Charters"
-392,1,33,392,"Event Planning & Services",Videographers
-403,1,33,403,"Event Planning & Services","Wedding Planning"
-500,1,33,500,"Event Planning & Services","Personal Chefs"
-629,1,33,629,"Event Planning & Services","Event Photography"
-648,1,33,648,"Event Planning & Services","Party Bus Rentals"
-653,1,33,653,"Event Planning & Services",Musicians
-658,1,33,658,"Event Planning & Services","Party Equipment Rentals"
-677,1,33,677,"Event Planning & Services",Bartenders
-678,1,33,678,"Event Planning & Services","Session Photography"
-680,1,33,680,"Event Planning & Services",Magicians
-689,1,33,689,"Event Planning & Services",Clowns
-690,1,33,690,"Event Planning & Services",Officiants
-911,1,33,911,"Event Planning & Services","Photo Booth Rentals"
-974,1,33,974,"Event Planning & Services","Trivia Hosts"
-1000,1,33,1000,"Event Planning & Services",Agriturismi
-1010,1,33,1010,"Event Planning & Services","Face Painting"
-1017,1,33,1017,"Event Planning & Services","Valet Services"
-1036,1,33,1036,"Event Planning & Services",Pensions
-1044,1,33,1044,"Event Planning & Services",Mohels
-1045,1,33,1045,"Event Planning & Services",Residences
-1051,1,33,1051,"Event Planning & Services","Rest Stops"
-1091,1,33,1091,"Event Planning & Services","Party Bike Rentals"
-1093,1,33,1093,"Event Planning & Services","Mountain Huts"
-1111,1,33,1111,"Event Planning & Services","Wedding Chapels"
-1112,1,33,1112,"Event Planning & Services","Henna Artists"
-1147,1,33,1147,"Event Planning & Services","Party Characters"
-33,0,33,NULL,"Event Planning & Services",NULL
-251,1,36,251,"Religious Organizations",Synagogues
-281,1,36,281,"Religious Organizations",Churches
-319,1,36,319,"Religious Organizations","Buddhist Temples"
-353,1,36,353,"Religious Organizations",Mosques
-394,1,36,394,"Religious Organizations","Hindu Temples"
-952,1,36,952,"Religious Organizations",Shrines
-1156,1,36,1156,"Religious Organizations","Taoist Temples"
-36,0,36,NULL,"Religious Organizations",NULL
-41,1,42,41,Pets,Veterinarians
-146,1,42,146,Pets,"Pet Boarding/Pet Sitting"
-147,1,42,147,Pets,"Pet Services"
-335,2,42,147,Pets,"Pet Services"
-350,2,42,147,Pets,"Pet Services"
-401,2,42,147,Pets,"Pet Services"
-146,2,42,147,Pets,"Pet Services"
-950,2,42,147,Pets,"Pet Services"
-217,1,42,217,Pets,"Pet Stores"
-262,1,42,262,Pets,"Animal Shelters"
-335,1,42,335,Pets,"Pet Training"
-350,1,42,350,Pets,"Pet Groomers"
-401,1,42,401,Pets,"Dog Walkers"
-685,1,42,685,Pets,"Horse Boarding"
-934,1,42,934,Pets,"Pet Adoption"
-950,1,42,950,Pets,"Aquarium Services"
-42,0,42,NULL,Pets,NULL
-49,1,48,49,Automotive,"Car Dealers"
-84,1,48,84,Automotive,"Auto Repair"
-85,1,48,85,Automotive,"Gas & Service Stations"
-111,1,48,111,Automotive,"Car Wash"
-129,1,48,129,Automotive,"Body Shops"
-131,1,48,131,Automotive,"Auto Parts & Supplies"
-132,1,48,132,Automotive,Tires
-160,1,48,160,Automotive,Towing
-185,1,48,185,Automotive,"Motorcycle Dealers"
-189,1,48,189,Automotive,"Auto Glass Services"
-201,1,48,201,Automotive,"Car Stereo Installation"
-322,1,48,322,Automotive,"Oil Change Stations"
-344,1,48,344,Automotive,"Windshield Installation & Repair"
-351,1,48,351,Automotive,"Auto Detailing"
-374,1,48,374,Automotive,"Motorcycle Repair"
-415,1,48,415,Automotive,Parking
-427,1,48,427,Automotive,"Smog Check Stations"
-598,1,48,598,Automotive,"Boat Dealers"
-622,1,48,622,Automotive,"RV Dealers"
-679,1,48,679,Automotive,"Truck Rental"
-826,1,48,826,Automotive,"Auto Loan Providers"
-871,1,48,871,Automotive,"Wheel & Rim Repair"
-877,1,48,877,Automotive,"Aircraft Dealers"
-878,1,48,878,Automotive,"Auto Customization"
-890,1,48,890,Automotive,"Registration Services"
-966,1,48,966,Automotive,"Car Inspectors"
-973,1,48,973,Automotive,"Vehicle Shipping"
-979,1,48,979,Automotive,"RV Repair"
-982,1,48,982,Automotive,"Car Share Services"
-1006,1,48,1006,Automotive,"Auto Electric Services"
-1033,1,48,1033,Automotive,"Car Buyers"
-1084,1,48,1084,Automotive,"Mobile Dent Repair"
-1124,1,48,1124,Automotive,"Fuel Docks"
-1132,1,48,1132,Automotive,"Mobility Equipment Sales & Services"
-1138,1,48,1138,Automotive,Marinas
-1139,1,48,1139,Automotive,"Transmission Repair"
-1152,1,48,1152,Automotive,"Car Brokers"
-48,0,48,NULL,Automotive,NULL
-51,1,52,51,"Active Life",Golf
-86,1,52,86,"Active Life","Bike Rentals"
-1118,2,52,95,"Active Life","Fitness & Instruction"
-805,2,52,95,"Active Life","Fitness & Instruction"
-873,2,52,95,"Active Life","Fitness & Instruction"
-377,2,52,95,"Active Life","Fitness & Instruction"
-609,2,52,95,"Active Life","Fitness & Instruction"
-101,2,52,95,"Active Life","Fitness & Instruction"
-456,2,52,95,"Active Life","Fitness & Instruction"
-438,2,52,95,"Active Life","Fitness & Instruction"
-166,2,52,95,"Active Life","Fitness & Instruction"
-104,2,52,95,"Active Life","Fitness & Instruction"
-315,2,52,95,"Active Life","Fitness & Instruction"
-96,2,52,95,"Active Life","Fitness & Instruction"
-1130,2,52,95,"Active Life","Fitness & Instruction"
-587,2,52,95,"Active Life","Fitness & Instruction"
-95,1,52,95,"Active Life","Fitness & Instruction"
-96,1,52,96,"Active Life",Gyms
-101,1,52,101,"Active Life","Martial Arts"
-104,1,52,104,"Active Life",Yoga
-166,1,52,166,"Active Life",Trainers
-181,1,52,181,"Active Life",Boating
-187,1,52,187,"Active Life",Bowling
-203,1,52,203,"Active Life","Amateur Sports Teams"
-220,1,52,220,"Active Life","Mini Golf"
-224,1,52,224,"Active Life","Sports Clubs"
-225,1,52,225,"Active Life","Summer Camps"
-234,1,52,234,"Active Life","Amusement Parks"
-240,1,52,240,"Active Life","Skating Rinks"
-267,1,52,267,"Active Life",Zoos
-268,1,52,268,"Active Life",Tennis
-292,1,52,292,"Active Life",Parks
-514,2,52,292,"Active Life",Parks
-296,2,52,292,"Active Life",Parks
-293,1,52,293,"Active Life",Playgrounds
-296,1,52,296,"Active Life","Skate Parks"
-315,1,52,315,"Active Life",Pilates
-317,1,52,317,"Active Life",Skiing
-318,1,52,318,"Active Life",Skydiving
-327,1,52,327,"Active Life",Rafting/Kayaking
-336,1,52,336,"Active Life",Soccer
-342,1,52,342,"Active Life",Hiking
-345,1,52,345,"Active Life","Gun/Rifle Ranges"
-359,1,52,359,"Active Life",Archery
-360,1,52,360,"Active Life","Horseback Riding"
-364,1,52,364,"Active Life",Beaches
-365,1,52,365,"Active Life","Swimming Pools"
-375,1,52,375,"Active Life",Diving
-666,2,52,375,"Active Life",Diving
-572,2,52,375,"Active Life",Diving
-377,1,52,377,"Active Life","Dance Studios"
-400,1,52,400,"Active Life",Aquariums
-412,1,52,412,"Active Life","Leisure Centers"
-438,1,52,438,"Active Life","Tai Chi"
-439,1,52,439,"Active Life",Fishing
-451,1,52,451,"Active Life","Go Karts"
-456,1,52,456,"Active Life","Swimming Lessons/Schools"
-460,1,52,460,"Active Life",Climbing
-469,1,52,469,"Active Life",Lakes
-489,1,52,489,"Active Life",Sailing
-503,1,52,503,"Active Life","Kids Activities"
-514,1,52,514,"Active Life","Dog Parks"
-517,1,52,517,"Active Life","Horse Racing"
-524,1,52,524,"Active Life","Disc Golf"
-530,1,52,530,"Active Life",Gliding
-536,1,52,536,"Active Life","Hot Air Balloons"
-565,1,52,565,"Active Life","Recreation Centers"
-572,1,52,572,"Active Life","Free Diving"
-586,1,52,586,"Active Life",Paddleboarding
-587,1,52,587,"Active Life","Boot Camps"
-589,1,52,589,"Active Life","Lawn Bowling"
-609,1,52,609,"Active Life","Barre Classes"
-611,1,52,611,"Active Life","Bicycle Paths"
-613,1,52,613,"Active Life","Indoor Playcentre"
-624,1,52,624,"Active Life",Paintball
-625,1,52,625,"Active Life",Surfing
-641,1,52,641,"Active Life",Tubing
-666,1,52,666,"Active Life","Scuba Diving"
-674,1,52,674,"Active Life",Experiences
-675,1,52,675,"Active Life","Bathing Area"
-697,1,52,697,"Active Life","Mountain Biking"
-704,1,52,704,"Active Life","Sport Equipment Hire"
-716,1,52,716,"Active Life","Rock Climbing"
-730,1,52,730,"Active Life",Kiteboarding
-749,1,52,749,"Active Life","Trampoline Parks"
-765,1,52,765,"Active Life","Hang Gliding"
-805,1,52,805,"Active Life",Boxing
-807,1,52,807,"Active Life",Gymnastics
-810,1,52,810,"Active Life",Nudist
-817,1,52,817,"Active Life",Badminton
-818,1,52,818,"Active Life",Squash
-820,1,52,820,"Active Life","Public Plazas"
-825,1,52,825,"Active Life","Spin Classes"
-831,1,52,831,"Active Life","Laser Tag"
-840,1,52,840,"Active Life","Bungee Jumping"
-842,1,52,842,"Active Life",Zorbing
-856,1,52,856,"Active Life",Sledding
-858,1,52,858,"Active Life","Basketball Courts"
-873,1,52,873,"Active Life","Meditation Centers"
-876,1,52,876,"Active Life","Surf Lifesaving"
-889,1,52,889,"Active Life","Challenge Courses"
-898,1,52,898,"Active Life","Cycling Classes"
-905,1,52,905,"Active Life","Day Camps"
-969,1,52,969,"Active Life","Batting Cages"
-976,1,52,976,"Active Life","Jet Skis"
-994,1,52,994,"Active Life","ATV Rentals/Tours"
-995,1,52,995,"Active Life","Fencing Clubs"
-1007,1,52,1007,"Active Life",Flyboarding
-1043,1,52,1043,"Active Life",Volleyball
-1050,1,52,1050,"Active Life","Beach Volleyball"
-1053,1,52,1053,"Active Life","Wildlife Hunting Ranges"
-1118,1,52,1118,"Active Life","EMS Training"
-1130,1,52,1130,"Active Life","Golf Lessons"
-1144,1,52,1144,"Active Life","Races & Competitions"
-52,0,52,NULL,"Active Life",NULL
-61,1,59,61,Nightlife,Bars
-525,2,59,61,Nightlife,Bars
-717,2,59,61,Nightlife,Bars
-289,2,59,61,Nightlife,Bars
-183,2,59,61,Nightlife,Bars
-473,2,59,61,Nightlife,Bars
-140,2,59,61,Nightlife,Bars
-513,2,59,61,Nightlife,Bars
-495,2,59,61,Nightlife,Bars
-110,2,59,61,Nightlife,Bars
-852,2,59,61,Nightlife,Bars
-137,2,59,61,Nightlife,Bars
-531,2,59,61,Nightlife,Bars
-1063,2,59,61,Nightlife,Bars
-1027,2,59,61,Nightlife,Bars
-700,2,59,61,Nightlife,Bars
-421,2,59,61,Nightlife,Bars
-110,1,59,110,Nightlife,"Dive Bars"
-137,1,59,137,Nightlife,Lounges
-140,1,59,140,Nightlife,Pubs
-142,1,59,142,Nightlife,"Dance Clubs"
-183,1,59,183,Nightlife,"Sports Bars"
-238,1,59,238,Nightlife,"Music Venues"
-255,1,59,255,Nightlife,"Pool Halls"
-271,1,59,271,Nightlife,"Comedy Clubs"
-289,1,59,289,Nightlife,"Gay Bars"
-290,1,59,290,Nightlife,Karaoke
-340,1,59,340,Nightlife,"Adult Entertainment"
-408,1,59,408,Nightlife,"Jazz & Blues"
-421,1,59,421,Nightlife,"Wine Bars"
-473,1,59,473,Nightlife,"Hookah Bars"
-495,1,59,495,Nightlife,"Irish Pub"
-513,1,59,513,Nightlife,"Cocktail Bars"
-525,1,59,525,Nightlife,"Champagne Bars"
-531,1,59,531,Nightlife,"Beach Bars"
-576,1,59,576,Nightlife,"Beer Gardens"
-626,1,59,626,Nightlife,"Piano Bars"
-633,1,59,633,Nightlife,"Country Dance Halls"
-650,1,59,650,Nightlife,"Dance Restaurants"
-700,1,59,700,Nightlife,"Hotel bar"
-715,1,59,715,Nightlife,Coffeeshops
-717,1,59,717,Nightlife,"Beer Bar"
-787,1,59,787,Nightlife,"Fasil Music"
-852,1,59,852,Nightlife,"Absinthe Bars"
-1027,1,59,1027,Nightlife,"Sake Bars"
-1063,1,59,1063,Nightlife,"Airport Lounges"
-59,0,59,NULL,Nightlife,NULL
-69,1,70,69,"Arts & Entertainment","Performing Arts"
-75,1,70,75,"Arts & Entertainment",Cinema
-79,1,70,79,"Arts & Entertainment",Museums
-139,1,70,139,"Arts & Entertainment","Stadiums & Arenas"
-152,1,70,152,"Arts & Entertainment","Art Galleries"
-202,1,70,202,"Arts & Entertainment","Professional Sports Teams"
-238,1,70,238,"Arts & Entertainment","Music Venues"
-316,1,70,316,"Arts & Entertainment","Botanical Gardens"
-354,1,70,354,"Arts & Entertainment",Arcades
-1110,2,70,362,"Arts & Entertainment",Wineries
-362,1,70,362,"Arts & Entertainment",Wineries
-366,1,70,366,"Arts & Entertainment","Social Clubs"
-370,1,70,370,"Arts & Entertainment",Casinos
-398,1,70,398,"Arts & Entertainment","Psychics & Astrologers"
-407,1,70,407,"Arts & Entertainment",Festivals
-501,2,70,407,"Arts & Entertainment",Festivals
-554,2,70,407,"Arts & Entertainment",Festivals
-537,2,70,407,"Arts & Entertainment",Festivals
-552,2,70,407,"Arts & Entertainment",Festivals
-408,1,70,408,"Arts & Entertainment","Jazz & Blues"
-422,1,70,422,"Arts & Entertainment","Opera & Ballet"
-501,1,70,501,"Arts & Entertainment","General Festivals"
-537,1,70,537,"Arts & Entertainment","Fun Fair"
-538,1,70,538,"Arts & Entertainment",Castles
-552,1,70,552,"Arts & Entertainment","Christmas Markets"
-554,1,70,554,"Arts & Entertainment","Trade Fairs"
-599,1,70,599,"Arts & Entertainment","Street Art"
-615,1,70,615,"Arts & Entertainment","Tablao Flamenco"
-711,1,70,711,"Arts & Entertainment","Betting Centers"
-752,1,70,752,"Arts & Entertainment",Choirs
-753,1,70,753,"Arts & Entertainment","Ticket Sales"
-773,1,70,773,"Arts & Entertainment","Cultural Center"
-812,1,70,812,"Arts & Entertainment","Marching Bands"
-841,1,70,841,"Arts & Entertainment","Race Tracks"
-951,1,70,951,"Arts & Entertainment",Cabaret
-1037,1,70,1037,"Arts & Entertainment",Pachinko
-1038,1,70,1038,"Arts & Entertainment","Mah Jong Halls"
-1077,1,70,1077,"Arts & Entertainment","Paint & Sip"
-1096,1,70,1096,"Arts & Entertainment",Observatories
-1097,1,70,1097,"Arts & Entertainment","Bingo Halls"
-1102,1,70,1102,"Arts & Entertainment","Country Clubs"
-1103,1,70,1103,"Arts & Entertainment",Planetarium
-1110,1,70,1110,"Arts & Entertainment","Wine Tasting Room"
-1133,1,70,1133,"Arts & Entertainment","LAN Centers"
-70,0,70,NULL,"Arts & Entertainment",NULL
-82,1,81,82,Education,"Driving Schools"
-83,1,81,83,Education,"Specialty Schools"
-284,2,81,83,Education,"Specialty Schools"
-467,2,81,83,Education,"Specialty Schools"
-269,2,81,83,Education,"Specialty Schools"
-1059,2,81,83,Education,"Specialty Schools"
-894,2,81,83,Education,"Specialty Schools"
-682,2,81,83,Education,"Specialty Schools"
-82,2,81,83,Education,"Specialty Schools"
-634,2,81,83,Education,"Specialty Schools"
-333,2,81,83,Education,"Specialty Schools"
-456,2,81,83,Education,"Specialty Schools"
-809,2,81,83,Education,"Specialty Schools"
-1040,2,81,83,Education,"Specialty Schools"
-94,2,81,83,Education,"Specialty Schools"
-470,2,81,83,Education,"Specialty Schools"
-1137,2,81,83,Education,"Specialty Schools"
-1061,2,81,83,Education,"Specialty Schools"
-1089,2,81,83,Education,"Specialty Schools"
-261,2,81,83,Education,"Specialty Schools"
-1013,2,81,83,Education,"Specialty Schools"
-970,2,81,83,Education,"Specialty Schools"
-1062,2,81,83,Education,"Specialty Schools"
-737,2,81,83,Education,"Specialty Schools"
-94,1,81,94,Education,"Language Schools"
-120,1,81,120,Education,"Educational Services"
-133,1,81,133,Education,Preschools
-134,1,81,134,Education,"Elementary Schools"
-144,1,81,144,Education,"Colleges & Universities"
-156,1,81,156,Education,"Middle Schools & High Schools"
-211,1,81,211,Education,"Tutoring Centers"
-261,1,81,261,Education,"Art Schools"
-269,1,81,269,Education,"Cosmetology Schools"
-284,1,81,284,Education,"Cooking Schools"
-333,1,81,333,Education,"Dance Schools"
-347,1,81,347,Education,"Adult Education"
-456,1,81,456,Education,"Swimming Lessons/Schools"
-467,1,81,467,Education,"Flight Instruction"
-470,1,81,470,Education,"Massage Schools"
-504,1,81,504,Education,"Private Tutors"
-585,1,81,585,Education,"Special Education"
-610,1,81,610,Education,"Private Schools"
-634,1,81,634,Education,"Vocational & Technical School"
-635,1,81,635,Education,"Test Preparation"
-682,1,81,682,Education,"Circus Schools"
-719,1,81,719,Education,"Religious Schools"
-727,1,81,727,Education,"College Counseling"
-737,1,81,737,Education,"CPR Classes"
-809,1,81,809,Education,"First Aid Classes"
-894,1,81,894,Education,"Food Safety Training"
-912,1,81,912,Education,"Art Classes"
-970,1,81,970,Education,"Bartending Schools"
-1013,1,81,1013,Education,"Parenting Classes"
-1040,1,81,1040,Education,"Nursing Schools"
-1059,1,81,1059,Education,"Ski Schools"
-1061,1,81,1061,Education,"Firearm Training"
-1062,1,81,1062,Education,"Pole Dancing Classes"
-1089,1,81,1089,Education,"Samba Schools"
-1142,2,81,1125,Education,"Tasting Classes"
-1126,2,81,1125,Education,"Tasting Classes"
-1125,1,81,1125,Education,"Tasting Classes"
-1126,1,81,1126,Education,"Cheese Tasting Classes"
-1137,1,81,1137,Education,"Childbirth Education"
-1142,1,81,1142,Education,"Wine Tasting Classes"
-81,0,81,NULL,Education,NULL
-106,1,107,106,"Mass Media","Television Stations"
-186,1,107,186,"Mass Media","Print Media"
-253,1,107,253,"Mass Media","Radio Stations"
-107,0,107,NULL,"Mass Media",NULL
-117,1,118,117,"Public Services & Government",Libraries
-164,1,118,164,"Public Services & Government","Post Offices"
-314,1,118,314,"Public Services & Government","Landmarks & Historical Buildings"
-383,1,118,383,"Public Services & Government","Police Departments"
-496,1,118,496,"Public Services & Government","Departments of Motor Vehicles"
-506,1,118,506,"Public Services & Government","Registry Office"
-507,1,118,507,"Public Services & Government",Embassy
-583,1,118,583,"Public Services & Government","Authorized Postal Representative"
-603,1,118,603,"Public Services & Government",Courthouses
-761,1,118,761,"Public Services & Government","Tax Office"
-811,1,118,811,"Public Services & Government","Community Centers"
-830,1,118,830,"Public Services & Government","Fire Departments"
-118,0,118,NULL,"Public Services & Government",NULL
-848,1,159,848,"Local Flavor","Yelp Events"
-159,0,159,NULL,"Local Flavor",NULL
-575,1,573,575,Bicycles,"Bike Repair"
-652,1,573,652,Bicycles,"Special Bikes"
-656,1,573,656,Bicycles,"Bike Shop"
-785,1,573,785,Bicycles,"Bike Associations"
-573,0,573,NULL,Bicycles,NULL
-937,3,NULL,NULL,NULL,NULL
-924,3,NULL,NULL,NULL,NULL
+catID,level,lvl1_cat_id,lvl2_cat_id,lvl_cat_name,lvl1_cat_name1,1,2,1,Health & Medical,Orthodontists3,1,2,3,Health & Medical,Dentists372,2,2,3,Health & Medical,Dentists654,2,2,3,Health & Medical,Dentists87,2,2,3,Health & Medical,Dentists1,2,2,3,Health & Medical,Dentists196,2,2,3,Health & Medical,Dentists145,2,2,3,Health & Medical,Dentists418,2,2,3,Health & Medical,Dentists7,1,2,7,Health & Medical,Chiropractors10,1,2,10,Health & Medical,Sports Medicine11,1,2,11,Health & Medical,Doctors562,2,2,11,Health & Medical,Doctors420,2,2,11,Health & Medical,Doctors453,2,2,11,Health & Medical,Doctors512,2,2,11,Health & Medical,Doctors432,2,2,11,Health & Medical,Doctors97,2,2,11,Health & Medical,Doctors10,2,2,11,Health & Medical,Doctors258,2,2,11,Health & Medical,Doctors197,2,2,11,Health & Medical,Doctors993,2,2,11,Health & Medical,Doctors485,2,2,11,Health & Medical,Doctors295,2,2,11,Health & Medical,Doctors259,2,2,11,Health & Medical,Doctors109,2,2,11,Health & Medical,Doctors584,2,2,11,Health & Medical,Doctors471,2,2,11,Health & Medical,Doctors199,2,2,11,Health & Medical,Doctors566,2,2,11,Health & Medical,Doctors486,2,2,11,Health & Medical,Doctors567,2,2,11,Health & Medical,Doctors198,2,2,11,Health & Medical,Doctors502,2,2,11,Health & Medical,Doctors568,2,2,11,Health & Medical,Doctors304,2,2,11,Health & Medical,Doctors207,2,2,11,Health & Medical,Doctors668,2,2,11,Health & Medical,Doctors983,2,2,11,Health & Medical,Doctors977,2,2,11,Health & Medical,Doctors209,2,2,11,Health & Medical,Doctors215,2,2,11,Health & Medical,Doctors808,2,2,11,Health & Medical,Doctors12,1,2,12,Health & Medical,Counseling & Mental Health962,2,2,12,Health & Medical,Counseling & Mental Health1054,2,2,12,Health & Medical,Counseling & Mental Health981,2,2,12,Health & Medical,Counseling & Mental Health1039,2,2,12,Health & Medical,Counseling & Mental Health945,2,2,12,Health & Medical,Counseling & Mental Health87,1,2,87,Health & Medical,Oral Surgeons92,1,2,92,Health & Medical,Acupuncture97,1,2,97,Health & Medical,Podiatrists109,1,2,109,Health & Medical,Orthopedists112,1,2,112,Health & Medical,Physical Therapy115,1,2,115,Health & Medical,Midwives125,1,2,125,Health & Medical,Optometrists145,1,2,145,Health & Medical,Cosmetic Dentists168,1,2,168,Health & Medical,Retirement Homes179,1,2,179,Health & Medical,Hospitals196,1,2,196,Health & Medical,Pediatric Dentists197,1,2,197,Health & Medical,Ophthalmologists198,1,2,198,Health & Medical,Obstetricians & Gynecologists199,1,2,199,Health & Medical,Internal Medicine207,1,2,207,Health & Medical,Cosmetic Surgeons209,1,2,209,Health & Medical,Family Practice215,1,2,215,Health & Medical,Psychiatrists226,1,2,226,Health & Medical,Medical Centers774,2,2,226,Health & Medical,Medical Centers602,2,2,226,Health & Medical,Medical Centers724,2,2,226,Health & Medical,Medical Centers230,1,2,230,Health & Medical,Nutritionists243,1,2,243,Health & Medical,Home Health Care258,1,2,258,Health & Medical,Ear Nose & Throat259,1,2,259,Health & Medical,Cardiologists294,1,2,294,Health & Medical,Traditional Chinese Medicine295,1,2,295,Health & Medical,Dermatologists304,1,2,304,Health & Medical,Naturopathic/Holistic363,1,2,363,Health & Medical,Laser Eye Surgery/Lasik372,1,2,372,Health & Medical,Endodontists384,1,2,384,Health & Medical,Weight Loss Centers399,1,2,399,Health & Medical,Speech Therapists413,1,2,413,Health & Medical,Medical Spas418,1,2,418,Health & Medical,Periodontists420,1,2,420,Health & Medical,Allergists425,1,2,425,Health & Medical,Urgent Care432,1,2,432,Health & Medical,Pediatricians453,1,2,453,Health & Medical,Surgeons471,1,2,471,Health & Medical,Proctologists485,1,2,485,Health & Medical,Tattoo Removal486,1,2,486,Health & Medical,Osteopathic Physicians502,1,2,502,Health & Medical,Gerontologists509,1,2,509,Health & Medical,Hearing Aids512,1,2,512,Health & Medical,Fertility515,1,2,515,Health & Medical,Pharmacy519,1,2,519,Health & Medical,Cannabis Clinics544,1,2,544,Health & Medical,Saunas562,1,2,562,Health & Medical,Oncologist564,1,2,564,Health & Medical,Hospice566,1,2,566,Health & Medical,Audiologist567,1,2,567,Health & Medical,Gastroenterologist568,1,2,568,Health & Medical,Neurologist584,1,2,584,Health & Medical,Pulmonologist595,1,2,595,Health & Medical,Hearing Aid Providers596,1,2,596,Health & Medical,Laboratory Testing597,1,2,597,Health & Medical,Diagnostic Services698,2,2,597,Health & Medical,Diagnostic Services596,2,2,597,Health & Medical,Diagnostic Services602,1,2,602,Health & Medical,Walk-in Clinics605,1,2,605,Health & Medical,Rehabilitation Center612,1,2,612,Health & Medical,Lactation Services627,1,2,627,Health & Medical,Reflexology654,1,2,654,Health & Medical,General Dentistry668,1,2,668,Health & Medical,Anesthesiologists698,1,2,698,Health & Medical,Diagnostic Imaging723,1,2,723,Health & Medical,Massage Therapy724,1,2,724,Health & Medical,Bulk Billing728,1,2,728,Health & Medical,Medical Transportation770,1,2,770,Health & Medical,Occupational Therapy774,1,2,774,Health & Medical,Osteopaths801,1,2,801,Health & Medical,Dental Hygienists802,2,2,801,Health & Medical,Dental Hygienists803,2,2,801,Health & Medical,Dental Hygienists802,1,2,802,Health & Medical,Mobile Clinics803,1,2,803,Health & Medical,Storefront Clinics808,1,2,808,Health & Medical,Urologists879,1,2,879,Health & Medical,Hypnosis/Hypnotherapy886,1,2,886,Health & Medical,Doulas891,1,2,891,Health & Medical,Health Insurance Offices928,1,2,928,Health & Medical,Reiki941,1,2,941,Health & Medical,Lice Services944,1,2,944,Health & Medical,Medical Foot Care945,1,2,945,Health & Medical,Psychologists957,1,2,957,Health & Medical,Emergency Rooms962,1,2,962,Health & Medical,Psychoanalysts967,1,2,967,Health & Medical,Prosthetics968,1,2,968,Health & Medical,Orthotics977,1,2,977,Health & Medical,Endocrinologists981,1,2,981,Health & Medical,Psychotherapists983,1,2,983,Health & Medical,Radiologists993,1,2,993,Health & Medical,Rheumatologists1039,1,2,1039,Health & Medical,Sports Psychologists1054,1,2,1054,Health & Medical,Sex Therapists1080,1,2,1080,Health & Medical,Sleep Specialists1081,1,2,1081,Health & Medical,Nurse Practitioner1117,1,2,1117,Health & Medical,Personal Care Services1122,1,2,1122,Health & Medical,Colonics1129,1,2,1129,Health & Medical,Blood & Plasma Donation Centers1140,1,2,1140,Health & Medical,Dialysis Clinics1146,1,2,1146,Health & Medical,Prenatal/Perinatal Care1149,1,2,1149,Health & Medical,Habilitative Services2,0,2,NULL,Health & Medical,NULL6,1,4,6,Real Estate,Property Management34,1,4,34,Real Estate,Real Estate Services35,1,4,35,Real Estate,Apartments150,1,4,150,Real Estate,Mortgage Brokers341,1,4,341,Real Estate,Real Estate Agents433,1,4,433,Real Estate,Home Staging478,1,4,478,Real Estate,University Housing686,1,4,686,Real Estate,Commercial Real Estate742,1,4,742,Real Estate,Shared Office Spaces1012,1,4,1012,Real Estate,Kitchen Incubators1056,1,4,1056,Real Estate,Mobile Home Dealers1085,1,4,1085,Real Estate,Art Space Rentals1100,1,4,1100,Real Estate,Estate Liquidation4,1,5,4,Home Services,Real Estate6,1,5,6,Home Services,Property Management34,1,5,34,Home Services,Real Estate Services35,1,5,35,Home Services,Apartments40,1,5,40,Home Services,Interior Design54,1,5,54,Home Services,Contractors58,1,5,58,Home Services,Plumbing127,1,5,127,Home Services,Movers150,1,5,150,Home Services,Mortgage Brokers158,1,5,158,Home Services,Home Inspectors161,1,5,161,Home Services,Painters162,1,5,162,Home Services,Electricians169,1,5,169,Home Services,Building Supplies170,1,5,170,Home Services,Carpeting188,1,5,188,Home Services,Home Cleaning222,1,5,222,Home Services,Shades & Blinds246,1,5,246,Home Services,Keys & Locksmiths270,1,5,270,Home Services,Lighting Fixtures & Equipment283,1,5,283,Home Services,Internet Service Providers299,1,5,299,Home Services,Flooring325,1,5,325,Home Services,Heating & Air Conditioning/HVAC341,1,5,341,Home Services,Real Estate Agents355,1,5,355,Home Services,Roofing356,1,5,356,Home Services,Landscaping367,1,5,367,Home Services,Windows Installation371,1,5,371,Home Services,Tree Services378,1,5,378,Home Services,Gardeners380,1,5,380,Home Services,Pool Cleaners381,1,5,381,Home Services,Landscape Architects386,1,5,386,Home Services,Carpenters409,1,5,409,Home Services,Security Systems411,1,5,411,Home Services,Carpet Installation428,1,5,428,Home Services,Handyman430,1,5,430,Home Services,Television Service Providers433,1,5,433,Home Services,Home Staging447,1,5,447,Home Services,Home Theatre Installation476,1,5,476,Home Services,Window Washing478,1,5,478,Home Services,University Housing499,1,5,499,Home Services,Solar Installation636,1,5,636,Home Services,Masonry/Concrete684,1,5,684,Home Services,Home Organization686,1,5,686,Home Services,Commercial Real Estate707,1,5,707,Home Services,Garage Door Services742,1,5,742,Home Services,Shared Office Spaces778,1,5,778,Home Services,Utilities797,1,5,797,Home Services,Home Window Tinting800,1,5,800,Home Services,Irrigation844,1,5,844,Home Services,Damage Restoration867,1,5,867,Home Services,Door Sales/Installation874,1,5,874,Home Services,Fences & Gates875,1,5,875,Home Services,Structural Engineers882,1,5,882,Home Services,Gutter Services883,1,5,883,Home Services,Glass & Mirrors888,1,5,888,Home Services,Chimney Sweeps909,1,5,909,Home Services,Pressure Washers910,1,5,910,Home Services,Cabinetry933,1,5,933,Home Services,Drywall Installation & Repair960,1,5,960,Home Services,Fireplace Services978,1,5,978,Home Services,Firewood985,1,5,985,Home Services,Pool & Hot Tub Service989,1,5,989,Home Services,Insulation Installation1009,1,5,1009,Home Services,Furniture Assembly1012,1,5,1012,Home Services,Kitchen Incubators1030,1,5,1030,Home Services,Shutters1052,1,5,1052,Home Services,Refinishing Services1056,1,5,1056,Home Services,Mobile Home Dealers1057,1,5,1057,Home Services,Stucco Services1068,1,5,1068,Home Services,Fire Protection Services1078,1,5,1078,Home Services,Water Purification Services1083,1,5,1083,Home Services,Home Automation1085,1,5,1085,Home Services,Art Space Rentals1100,1,5,1100,Home Services,Estate Liquidation1109,1,5,1109,Home Services,Tiling1114,1,5,1114,Home Services,House Sitters1123,1,5,1123,Home Services,Childproofing1131,1,5,1131,Home Services,Demolition Services5,0,5,NULL,Home Services,NULL9,1,8,9,Shopping,Drugstores13,1,8,13,Shopping,Computers43,1,8,43,Shopping,Jewelry44,1,8,44,Shopping,Bookstores46,2,8,45,Shopping,"Books, Mags, Music & Video"44,2,8,45,Shopping,"Books, Mags, Music & Video"274,2,8,45,Shopping,"Books, Mags, Music & Video"277,2,8,45,Shopping,"Books, Mags, Music & Video"1067,2,8,45,Shopping,"Books, Mags, Music & Video"242,2,8,45,Shopping,"Books, Mags, Music & Video"241,2,8,45,Shopping,"Books, Mags, Music & Video"45,1,8,45,Shopping,"Books, Mags, Music & Video"46,1,8,46,Shopping,Videos & Video Game Rental218,2,8,55,Shopping,Flowers & Gifts56,2,8,55,Shopping,Flowers & Gifts657,2,8,55,Shopping,Flowers & Gifts661,2,8,55,Shopping,Flowers & Gifts55,1,8,55,Shopping,Flowers & Gifts56,1,8,56,Shopping,Florists1135,2,8,57,Shopping,Sporting Goods76,2,8,57,Shopping,Sporting Goods1101,2,8,57,Shopping,Sporting Goods210,2,8,57,Shopping,Sporting Goods637,2,8,57,Shopping,Sporting Goods250,2,8,57,Shopping,Sporting Goods1088,2,8,57,Shopping,Sporting Goods57,1,8,57,Shopping,Sporting Goods64,1,8,64,Shopping,Photography Stores & Services65,1,8,65,Shopping,"Used, Vintage & Consignment"247,2,8,66,Shopping,Fashion660,2,8,66,Shopping,Fashion235,2,8,66,Shopping,Fashion851,2,8,66,Shopping,Fashion763,2,8,66,Shopping,Fashion699,2,8,66,Shopping,Fashion260,2,8,66,Shopping,Fashion65,2,8,66,Shopping,Fashion178,2,8,66,Shopping,Fashion310,2,8,66,Shopping,Fashion571,2,8,66,Shopping,Fashion233,2,8,66,Shopping,Fashion642,2,8,66,Shopping,Fashion919,2,8,66,Shopping,Fashion1145,2,8,66,Shopping,Fashion250,2,8,66,Shopping,Fashion236,2,8,66,Shopping,Fashion463,2,8,66,Shopping,Fashion368,2,8,66,Shopping,Fashion245,2,8,66,Shopping,Fashion66,1,8,66,Shopping,Fashion76,1,8,76,Shopping,Outdoor Gear105,1,8,105,Shopping,Musical Instruments & Teachers113,1,8,113,Shopping,Hardware Stores1127,2,8,114,Shopping,Home & Garden441,2,8,114,Shopping,Home & Garden311,2,8,114,Shopping,Home & Garden276,2,8,114,Shopping,Home & Garden113,2,8,114,Shopping,Home & Garden1034,2,8,114,Shopping,Home & Garden177,2,8,114,Shopping,Home & Garden1099,2,8,114,Shopping,Home & Garden172,2,8,114,Shopping,Home & Garden880,2,8,114,Shopping,Home & Garden121,2,8,114,Shopping,Home & Garden385,2,8,114,Shopping,Home & Garden227,2,8,114,Shopping,Home & Garden479,2,8,114,Shopping,Home & Garden1079,2,8,114,Shopping,Home & Garden114,1,8,114,Shopping,Home & Garden121,1,8,121,Shopping,Mattresses123,1,8,123,Shopping,Eyewear & Opticians152,1,8,152,Shopping,Art Galleries154,1,8,154,Shopping,Toy Stores157,1,8,157,Shopping,Antiques165,1,8,165,Shopping,Mobile Phones172,1,8,172,Shopping,Appliances175,1,8,175,Shopping,Electronics176,1,8,176,Shopping,Outlet Stores177,1,8,177,Shopping,Nurseries & Gardening178,1,8,178,Shopping,Department Stores218,2,8,192,Shopping,Arts & Crafts964,2,8,192,Shopping,Arts & Crafts745,2,8,192,Shopping,Arts & Crafts216,2,8,192,Shopping,Arts & Crafts373,2,8,192,Shopping,Arts & Crafts300,2,8,192,Shopping,Arts & Crafts193,2,8,192,Shopping,Arts & Crafts192,1,8,192,Shopping,Arts & Crafts193,1,8,193,Shopping,Art Supplies195,1,8,195,Shopping,Bridal204,1,8,204,Shopping,Office Equipment208,1,8,208,Shopping,Tobacco Shops210,1,8,210,Shopping,Bikes213,1,8,213,Shopping,Cosmetics & Beauty Supply216,1,8,216,Shopping,Fabric Stores218,1,8,218,Shopping,Cards & Stationery219,1,8,219,Shopping,Hobby Shops227,1,8,227,Shopping,Furniture Stores233,1,8,233,Shopping,Shoe Stores235,1,8,235,Shopping,Accessories236,1,8,236,Shopping,Women's Clothing241,1,8,241,Shopping,Newspapers & Magazines242,1,8,242,Shopping,Music & DVDs245,1,8,245,Shopping,Lingerie247,1,8,247,Shopping,Men's Clothing250,1,8,250,Shopping,Sports Wear252,1,8,252,Shopping,Pawn Shops254,1,8,254,Shopping,Watches260,1,8,260,Shopping,Leather Goods274,1,8,274,Shopping,Comic Books275,1,8,275,Shopping,Luggage276,1,8,276,Shopping,Home Decor277,1,8,277,Shopping,Vinyl Records278,1,8,278,Shopping,Shopping Centers300,1,8,300,Shopping,Costumes310,1,8,310,Shopping,Children's Clothing311,1,8,311,Shopping,Kitchen & Bath324,1,8,324,Shopping,Thrift Stores326,1,8,326,Shopping,Knitting Supplies337,1,8,337,Shopping,Discount Store368,1,8,368,Shopping,Maternity Wear373,1,8,373,Shopping,Framing376,1,8,376,Shopping,Wholesale Stores385,1,8,385,Shopping,Hot Tub & Pool393,1,8,393,Shopping,Adult404,1,8,404,Shopping,Baby Gear & Furniture405,1,8,405,Shopping,Personal Shopping441,1,8,441,Shopping,Linens452,1,8,452,Shopping,Souvenir Shops463,1,8,463,Shopping,Swimwear479,1,8,479,Shopping,Tableware494,1,8,494,Shopping,Spiritual Shop497,1,8,497,Shopping,Concept Shops505,1,8,505,Shopping,Flea Markets522,1,8,522,Shopping,Used Bookstore526,1,8,526,Shopping,Perfume527,1,8,527,Shopping,Tickets528,1,8,528,Shopping,Kiosk571,1,8,571,Shopping,Hats607,1,8,607,Shopping,Market Stalls617,1,8,617,Shopping,Uniforms620,1,8,620,Shopping,Wigs637,1,8,637,Shopping,Golf Equipment642,1,8,642,Shopping,Formal Wear657,1,8,657,Shopping,Flowers660,1,8,660,Shopping,Surf Shop661,1,8,661,Shopping,Gift Shops699,1,8,699,Shopping,Sleepwear705,1,8,705,Shopping,Auction Houses712,1,8,712,Shopping,Guns & Ammo721,1,8,721,Shopping,Bespoke Clothing745,1,8,745,Shopping,Embroidery & Crochet756,1,8,756,Shopping,Scandinavian Design760,1,8,760,Shopping,Fireworks763,1,8,763,Shopping,Plus Size Fashion782,1,8,782,Shopping,Chinese Bazaar806,1,8,806,Shopping,Medical Supplies832,1,8,832,Shopping,Trophy Shops833,1,8,833,Shopping,Pop-up Shops835,1,8,835,Shopping,Motorcycle Gear838,1,8,838,Shopping,Golf Equipment Shops851,1,8,851,Shopping,Stockings853,1,8,853,Shopping,Pool & Billiards880,1,8,880,Shopping,Rugs892,1,8,892,Shopping,Gold Buyers919,1,8,919,Shopping,Kimonos929,1,8,929,Shopping,Brewing Supplies961,1,8,961,Shopping,Vape Shops963,1,8,963,Shopping,Customized Merchandise964,1,8,964,Shopping,Cooking Classes992,1,8,992,Shopping,Fitness/Exercise Equipment1019,1,8,1019,Shopping,High Fidelity Audio Equipment1034,1,8,1034,Shopping,Materiale elettrico1035,1,8,1035,Shopping,Horse Equipment Shops1065,1,8,1065,Shopping,Battery Stores1067,1,8,1067,Shopping,Video Game Stores1079,1,8,1079,Shopping,Christmas Trees1088,1,8,1088,Shopping,Skate Shops1099,1,8,1099,Shopping,Pumpkin Patches1101,1,8,1101,Shopping,Ski & Snowboard Shops1127,1,8,1127,Shopping,Paint Stores1135,1,8,1135,Shopping,Dive Shops1145,1,8,1145,Shopping,Clothing Rental1150,1,8,1150,Shopping,Vitamins & Supplements1151,1,8,1151,Shopping,Head Shops8,0,8,NULL,Shopping,NULL14,1,15,14,Financial Services,Banks & Credit Unions80,1,15,80,Financial Services,Investing223,1,15,223,Financial Services,Financial Advising1106,2,15,328,Financial Services,Insurance1107,2,15,328,Financial Services,Insurance1108,2,15,328,Financial Services,Insurance328,1,15,328,Financial Services,Insurance493,1,15,493,Financial Services,Check Cashing/Pay-day Loans560,1,15,560,Financial Services,Tax Services980,1,15,980,Financial Services,Debt Relief Services1046,1,15,1046,Financial Services,Currency Exchange1106,1,15,1106,Financial Services,Auto Insurance1107,1,15,1107,Financial Services,Life Insurance1108,1,15,1108,Financial Services,Home & Rental Insurance15,0,15,NULL,Financial Services,NULL16,1,18,16,Hotels & Travel,Airport Shuttles17,1,18,17,Hotels & Travel,Transportation1095,2,18,17,Hotels & Travel,Transportation16,2,18,17,Hotels & Travel,Transportation297,2,18,17,Hotels & Travel,Transportation781,2,18,17,Hotels & Travel,Transportation965,2,18,17,Hotels & Travel,Transportation1066,2,18,17,Hotels & Travel,Transportation414,2,18,17,Hotels & Travel,Transportation182,2,18,17,Hotels & Travel,Transportation987,2,18,17,Hotels & Travel,Transportation794,2,18,17,Hotels & Travel,Transportation720,2,18,17,Hotels & Travel,Transportation1141,2,18,17,Hotels & Travel,Transportation320,2,18,17,Hotels & Travel,Transportation31,1,18,31,Hotels & Travel,Bed & Breakfast1093,2,18,68,Hotels & Travel,Hotels68,1,18,68,Hotels & Travel,Hotels1045,2,18,68,Hotels & Travel,Hotels1000,2,18,68,Hotels & Travel,Hotels1036,2,18,68,Hotels & Travel,Hotels1051,2,18,68,Hotels & Travel,Hotels122,1,18,122,Hotels & Travel,Tours1001,2,18,122,Hotels & Travel,Tours1016,2,18,122,Hotels & Travel,Tours1003,2,18,122,Hotels & Travel,Tours1015,2,18,122,Hotels & Travel,Tours1025,2,18,122,Hotels & Travel,Tours1021,2,18,122,Hotels & Travel,Tours1014,2,18,122,Hotels & Travel,Tours136,1,18,136,Hotels & Travel,Car Rental149,1,18,149,Hotels & Travel,Guest Houses155,1,18,155,Hotels & Travel,Ski Resorts182,1,18,182,Hotels & Travel,Limos205,1,18,205,Hotels & Travel,Airports297,1,18,297,Hotels & Travel,Taxis320,1,18,320,Hotels & Travel,Public Transportation331,1,18,331,Hotels & Travel,Travel Services338,1,18,338,Hotels & Travel,Campgrounds414,1,18,414,Hotels & Travel,Airlines419,1,18,419,Hotels & Travel,Hostels442,1,18,442,Hotels & Travel,Vacation Rental Agents448,1,18,448,Hotels & Travel,RV Rental498,1,18,498,Hotels & Travel,Train Stations667,1,18,667,Hotels & Travel,Motorcycle Rental687,1,18,687,Hotels & Travel,Resorts720,1,18,720,Hotels & Travel,Water Taxis758,1,18,758,Hotels & Travel,Vacation Rentals781,1,18,781,Hotels & Travel,Ferries794,1,18,794,Hotels & Travel,Dolmus Station827,1,18,827,Hotels & Travel,RV Parks885,1,18,885,Hotels & Travel,Health Retreats965,1,18,965,Hotels & Travel,Buses987,1,18,987,Hotels & Travel,Trains1000,1,18,1000,Hotels & Travel,Agriturismi1001,1,18,1001,Hotels & Travel,Architectural Tours1003,1,18,1003,Hotels & Travel,Walking Tours1014,1,18,1014,Hotels & Travel,Bus Tours1015,1,18,1015,Hotels & Travel,Historical Tours1016,1,18,1016,Hotels & Travel,Art Tours1021,1,18,1021,Hotels & Travel,Food Tours1025,1,18,1025,Hotels & Travel,Wine Tours1036,1,18,1036,Hotels & Travel,Pensions1045,1,18,1045,Hotels & Travel,Residences1051,1,18,1051,Hotels & Travel,Rest Stops1066,1,18,1066,Hotels & Travel,Bike Sharing1093,1,18,1093,Hotels & Travel,Mountain Huts1095,1,18,1095,Hotels & Travel,Pedicabs1141,1,18,1141,Hotels & Travel,Cable Cars18,0,18,NULL,Hotels & Travel,NULL20,1,19,20,Professional Services,Lawyers569,2,19,20,Professional Services,Lawyers305,2,19,20,Professional Services,Lawyers798,2,19,20,Professional Services,Lawyers352,2,19,20,Professional Services,Lawyers256,2,19,20,Professional Services,Lawyers558,2,19,20,Professional Services,Lawyers922,2,19,20,Professional Services,Lawyers264,2,19,20,Professional Services,Lawyers559,2,19,20,Professional Services,Lawyers664,2,19,20,Professional Services,Lawyers804,2,19,20,Professional Services,Lawyers986,2,19,20,Professional Services,Lawyers561,2,19,20,Professional Services,Lawyers93,1,19,93,Professional Services,Accountants128,1,19,128,Professional Services,Architects153,1,19,153,Professional Services,Web Design212,1,19,212,Professional Services,Employment Agencies256,1,19,256,Professional Services,Bankruptcy Law264,1,19,264,Professional Services,Divorce & Family Law283,1,19,283,Professional Services,Internet Service Providers305,1,19,305,Professional Services,Personal Injury Law312,1,19,312,Professional Services,Graphic Design330,1,19,330,Professional Services,Office Cleaning334,1,19,334,Professional Services,Marketing352,1,19,352,Professional Services,General Litigation416,1,19,416,Professional Services,Public Relations417,1,19,417,Professional Services,Career Counseling429,1,19,429,Professional Services,Private Investigation435,1,19,435,Professional Services,Video/Film Production446,1,19,446,Professional Services,Advertising459,1,19,459,Professional Services,Security Services487,1,19,487,Professional Services,Life Coach558,1,19,558,Professional Services,Immigration Law559,1,19,559,Professional Services,Real Estate Law561,1,19,561,Professional Services,Estate Planning Law569,1,19,569,Professional Services,Criminal Defense Law577,1,19,577,Professional Services,Personal Assistants593,1,19,593,Professional Services,Translation Services664,1,19,664,Professional Services,Employment Law703,1,19,703,Professional Services,Boat Repair726,1,19,726,Professional Services,Matchmakers733,1,19,733,Professional Services,Talent Agencies798,1,19,798,Professional Services,DUI Law804,1,19,804,Professional Services,Business Law816,1,19,816,Professional Services,Editorial Services839,1,19,839,Professional Services,Taxidermy845,1,19,845,Professional Services,Legal Services847,1,19,847,Professional Services,Payroll Services881,1,19,881,Professional Services,Patent Law887,1,19,887,Professional Services,Signmaking922,1,19,922,Professional Services,Tax Law959,1,19,959,Professional Services,Shredding Services972,1,19,972,Professional Services,Software Development986,1,19,986,Professional Services,IP & Internet Law991,1,19,991,Professional Services,Tenant and Eviction Law1048,1,19,1048,Professional Services,Music Production Services1105,1,19,1105,Professional Services,Business Consulting19,0,19,NULL,Professional Services,NULL21,1,22,21,Local Services,Dry Cleaning & Laundry37,1,22,37,Local Services,Child Care & Day Care47,1,22,47,Local Services,Funeral Services & Cemeteries102,1,22,102,Local Services,Community Service/Non-Profit1069,2,22,102,Local Services,Community Service/Non-Profit124,1,22,124,Local Services,Printing Services126,1,22,126,Local Services,Carpet Cleaning141,1,22,141,Local Services,IT Services & Computer Repair671,2,22,141,Local Services,IT Services & Computer Repair734,2,22,141,Local Services,IT Services & Computer Repair918,2,22,141,Local Services,IT Services & Computer Repair163,1,22,163,Local Services,Notaries173,1,22,173,Local Services,Appliances & Repair200,1,22,200,Local Services,Self Storage206,1,22,206,Local Services,Furniture Reupholstery214,1,22,214,Local Services,Pest Control221,1,22,221,Local Services,Sewing & Alterations228,1,22,228,Local Services,Couriers & Delivery Services249,1,22,249,Local Services,Shoe Repair303,1,22,303,Local Services,Recording & Rehearsal Studios382,1,22,382,Local Services,Shipping Centers388,1,22,388,Local Services,Junk Removal & Hauling397,1,22,397,Local Services,Electronics Repair406,1,22,406,Local Services,Watch Repair474,1,22,474,Local Services,Recycling Center555,1,22,555,Local Services,Record Labels591,1,22,591,Local Services,Screen Printing/T-Shirt Printing601,1,22,601,Local Services,Youth Club630,1,22,630,Local Services,Snow Removal671,1,22,671,Local Services,Data Recovery694,1,22,694,Local Services,Screen Printing710,1,22,710,Local Services,Bike Repair/Maintenance734,1,22,734,Local Services,Mobile Phone Repair740,1,22,740,Local Services,Bail Bondsmen828,1,22,828,Local Services,Jewelry Repair857,1,22,857,Local Services,Nanny Services868,1,22,868,Local Services,Propane869,1,22,869,Local Services,Metal Fabricators918,1,22,918,Local Services,Telecommunications958,1,22,958,Local Services,Water Delivery971,1,22,971,Local Services,Internet Booths & Calling Centers988,1,22,988,Local Services,Septic Services990,1,22,990,Local Services,Knife Sharpening998,1,22,998,Local Services,Furniture Repair1011,1,22,1011,Local Services,Powder Coating1018,1,22,1018,Local Services,Appraisal Services1023,1,22,1023,Local Services,Bookbinding1041,1,22,1041,Local Services,Piano Services1042,1,22,1042,Local Services,Musical Instrument Services1041,2,22,1042,Local Services,Musical Instrument Services1104,2,22,1042,Local Services,Musical Instrument Services1086,2,22,1042,Local Services,Musical Instrument Services1049,1,22,1049,Local Services,Mailbox Centers1069,1,22,1069,Local Services,Food Banks1082,1,22,1082,Local Services,Adoption Services1086,1,22,1086,Local Services,Piano Stores1104,1,22,1104,Local Services,Guitar Stores1113,1,22,1113,Local Services,Machine & Tool Rental1120,1,22,1120,Local Services,Community Gardens1154,1,22,1154,Local Services,Furniture Rental22,0,22,NULL,Local Services,NULL24,1,23,24,Restaurants,Thai27,1,23,27,Restaurants,Soup28,1,23,28,Restaurants,Sandwiches39,1,23,39,Restaurants,Chinese777,2,23,39,Restaurants,Chinese1031,2,23,39,Restaurants,Chinese997,2,23,39,Restaurants,Chinese1024,2,23,39,Restaurants,Chinese741,2,23,39,Restaurants,Chinese614,2,23,39,Restaurants,Chinese735,2,23,39,Restaurants,Chinese731,2,23,39,Restaurants,Chinese696,2,23,39,Restaurants,Chinese361,2,23,39,Restaurants,Chinese746,2,23,39,Restaurants,Chinese639,2,23,39,Restaurants,Chinese50,1,23,50,Restaurants,American (Traditional)60,1,23,60,Restaurants,American (New)71,1,23,71,Restaurants,Korean78,1,23,78,Restaurants,Mexican943,2,23,78,Restaurants,Mexican940,2,23,78,Restaurants,Mexican949,2,23,78,Restaurants,Mexican935,2,23,78,Restaurants,Mexican923,2,23,78,Restaurants,Mexican931,2,23,78,Restaurants,Mexican907,2,23,78,Restaurants,Mexican917,2,23,78,Restaurants,Mexican98,1,23,98,Restaurants,Pizza100,1,23,100,Restaurants,Asian Fusion108,1,23,108,Restaurants,Indian119,1,23,119,Restaurants,Delis135,1,23,135,Restaurants,Japanese947,2,23,135,Restaurants,Japanese955,2,23,135,Restaurants,Japanese920,2,23,135,Restaurants,Japanese956,2,23,135,Restaurants,Japanese676,2,23,135,Restaurants,Japanese942,2,23,135,Restaurants,Japanese938,2,23,135,Restaurants,Japanese937,2,23,135,Restaurants,Japanese916,2,23,135,Restaurants,Japanese932,2,23,135,Restaurants,Japanese913,2,23,135,Restaurants,Japanese1022,2,23,135,Restaurants,Japanese906,2,23,135,Restaurants,Japanese930,2,23,135,Restaurants,Japanese946,2,23,135,Restaurants,Japanese786,2,23,135,Restaurants,Japanese866,2,23,135,Restaurants,Japanese646,2,23,135,Restaurants,Japanese1026,2,23,135,Restaurants,Japanese908,2,23,135,Restaurants,Japanese1002,2,23,135,Restaurants,Japanese953,2,23,135,Restaurants,Japanese1047,2,23,135,Restaurants,Japanese1005,2,23,135,Restaurants,Japanese914,2,23,135,Restaurants,Japanese924,2,23,135,Restaurants,Japanese925,2,23,135,Restaurants,Japanese939,2,23,135,Restaurants,Japanese143,1,23,143,Restaurants,Italian662,2,23,143,Restaurants,Italian747,2,23,143,Restaurants,Italian708,2,23,143,Restaurants,Italian645,2,23,143,Restaurants,Italian663,2,23,143,Restaurants,Italian702,2,23,143,Restaurants,Italian750,2,23,143,Restaurants,Italian1064,2,23,143,Restaurants,Italian588,2,23,143,Restaurants,Italian649,2,23,143,Restaurants,Italian1004,2,23,143,Restaurants,Italian621,2,23,143,Restaurants,Italian722,2,23,143,Restaurants,Italian570,2,23,143,Restaurants,Italian872,2,23,143,Restaurants,Italian766,2,23,143,Restaurants,Italian151,1,23,151,Restaurants,Greek190,1,23,190,Restaurants,Hot Dogs191,1,23,191,Restaurants,Burgers237,1,23,237,Restaurants,Spanish725,2,23,237,Restaurants,Spanish239,1,23,239,Restaurants,Basque244,1,23,244,Restaurants,Chicken Wings248,1,23,248,Restaurants,Seafood257,1,23,257,Restaurants,Mediterranean893,2,23,257,Restaurants,Mediterranean265,1,23,265,Restaurants,Portuguese896,2,23,265,Restaurants,Portuguese936,2,23,265,Restaurants,Portuguese899,2,23,265,Restaurants,Portuguese902,2,23,265,Restaurants,Portuguese895,2,23,265,Restaurants,Portuguese900,2,23,265,Restaurants,Portuguese904,2,23,265,Restaurants,Portuguese901,2,23,265,Restaurants,Portuguese921,2,23,265,Restaurants,Portuguese266,1,23,266,Restaurants,Breakfast & Brunch272,1,23,272,Restaurants,Sushi Bars273,1,23,273,Restaurants,Taiwanese280,1,23,280,Restaurants,Fast Food285,1,23,285,Restaurants,Middle Eastern579,2,23,285,Restaurants,Middle Eastern529,2,23,285,Restaurants,Middle Eastern286,1,23,286,Restaurants,Moroccan287,1,23,287,Restaurants,Pakistani288,1,23,288,Restaurants,Vegetarian298,1,23,298,Restaurants,Vietnamese302,1,23,302,Restaurants,Kosher307,1,23,307,Restaurants,Diners309,1,23,309,Restaurants,Cuban313,1,23,313,Restaurants,Latin American757,2,23,313,Restaurants,Latin American670,2,23,313,Restaurants,Latin American701,2,23,313,Restaurants,Latin American323,1,23,323,Restaurants,French1070,2,23,323,Restaurants,French1075,2,23,323,Restaurants,French1071,2,23,323,Restaurants,French1074,2,23,323,Restaurants,French1076,2,23,323,Restaurants,French1072,2,23,323,Restaurants,French329,1,23,329,Restaurants,Irish332,1,23,332,Restaurants,Steakhouses339,1,23,339,Restaurants,Barbeque346,1,23,346,Restaurants,Vegan348,1,23,348,Restaurants,Caribbean764,2,23,348,Restaurants,Caribbean762,2,23,348,Restaurants,Caribbean644,2,23,348,Restaurants,Caribbean748,2,23,348,Restaurants,Caribbean349,1,23,349,Restaurants,Brazilian863,2,23,349,Restaurants,Brazilian860,2,23,349,Restaurants,Brazilian864,2,23,349,Restaurants,Brazilian865,2,23,349,Restaurants,Brazilian862,2,23,349,Restaurants,Brazilian361,1,23,361,Restaurants,Dim Sum369,1,23,369,Restaurants,Soul Food387,1,23,387,Restaurants,Cheesesteaks389,1,23,389,Restaurants,Tapas Bars390,1,23,390,Restaurants,German819,2,23,390,Restaurants,German813,2,23,390,Restaurants,German823,2,23,390,Restaurants,German824,2,23,390,Restaurants,German821,2,23,390,Restaurants,German822,2,23,390,Restaurants,German391,1,23,391,Restaurants,Buffets395,1,23,395,Restaurants,Fish & Chips402,1,23,402,Restaurants,Tex-Mex769,2,23,423,Restaurants,African665,2,23,423,Restaurants,African423,1,23,423,Restaurants,African424,1,23,424,Restaurants,Gastropubs426,1,23,426,Restaurants,Ethiopian431,1,23,431,Restaurants,Peruvian434,1,23,434,Restaurants,Singaporean436,1,23,436,Restaurants,Malaysian695,2,23,436,Restaurants,Malaysian594,2,23,436,Restaurants,Malaysian437,1,23,437,Restaurants,Gluten-Free440,1,23,440,Restaurants,Cajun/Creole443,1,23,443,Restaurants,Cambodian444,1,23,444,Restaurants,Cafes445,1,23,445,Restaurants,Halal449,1,23,449,Restaurants,Live/Raw Food450,1,23,450,Restaurants,Food Stands455,1,23,455,Restaurants,Filipino457,1,23,457,Restaurants,British458,1,23,458,Restaurants,Southern461,1,23,461,Restaurants,Turkish791,2,23,461,Restaurants,Turkish796,2,23,461,Restaurants,Turkish1136,2,23,461,Restaurants,Turkish1134,2,23,461,Restaurants,Turkish795,2,23,461,Restaurants,Turkish462,1,23,462,Restaurants,Hungarian464,1,23,464,Restaurants,Creperies465,1,23,465,Restaurants,Tapas/Small Plates466,1,23,466,Restaurants,Russian468,1,23,468,Restaurants,Polish775,2,23,468,Restaurants,Polish472,1,23,472,Restaurants,Afghan477,1,23,477,Restaurants,Argentine480,1,23,480,Restaurants,Belgian1073,2,23,480,Restaurants,Belgian481,1,23,481,Restaurants,Fondue482,1,23,482,Restaurants,Brasseries483,1,23,483,Restaurants,Himalayan/Nepalese484,1,23,484,Restaurants,Persian/Iranian488,1,23,488,Restaurants,Indonesian490,1,23,490,Restaurants,Modern European491,1,23,491,Restaurants,Romanian492,1,23,492,Restaurants,Kebab508,1,23,508,Restaurants,Mongolian510,1,23,510,Restaurants,Burmese511,1,23,511,Restaurants,Hawaiian516,1,23,516,Restaurants,Bistros518,1,23,518,Restaurants,Scandinavian520,1,23,520,Restaurants,Ukrainian521,1,23,521,Restaurants,International529,1,23,529,Restaurants,Lebanese532,1,23,532,Restaurants,Australian533,1,23,533,Restaurants,Beer Hall534,1,23,534,Restaurants,Bulgarian535,1,23,535,Restaurants,Canteen539,1,23,539,Restaurants,Israeli540,1,23,540,Restaurants,Austrian541,1,23,541,Restaurants,Serbo Croatian542,1,23,542,Restaurants,Oriental543,1,23,543,Restaurants,Scottish545,1,23,545,Restaurants,French Southwest546,1,23,546,Restaurants,Bavarian547,1,23,547,Restaurants,Parent Cafes548,1,23,548,Restaurants,Corsican549,1,23,549,Restaurants,Beer Garden550,1,23,550,Restaurants,Curry Sausage551,1,23,551,Restaurants,Arabian861,2,23,551,Restaurants,Arabian553,1,23,553,Restaurants,Swabian556,1,23,556,Restaurants,Lyonnais570,1,23,570,Restaurants,Sicilian574,1,23,574,Restaurants,Comfort Food578,1,23,578,Restaurants,Signature Cuisine579,1,23,579,Restaurants,Egyptian582,1,23,582,Restaurants,Poutineries588,1,23,588,Restaurants,Cucina campana590,1,23,590,Restaurants,Eastern European592,1,23,592,Restaurants,Wraps594,1,23,594,Restaurants,Mamak600,1,23,600,Restaurants,Parma604,1,23,604,Restaurants,Georgian606,1,23,606,Restaurants,Rumanian608,1,23,608,Restaurants,Salad614,1,23,614,Restaurants,Cantonese616,1,23,616,Restaurants,Swedish619,1,23,619,Restaurants,Island Pub621,1,23,621,Restaurants,Altoatesine623,1,23,623,Restaurants,Milk Bars628,1,23,628,Restaurants,Night Food632,1,23,632,Restaurants,Galician638,1,23,638,Restaurants,Chicken Shop639,1,23,639,Restaurants,Szechuan640,1,23,640,Restaurants,Potatoes644,1,23,644,Restaurants,Puerto Rican645,1,23,645,Restaurants,Lumbard646,1,23,646,Restaurants,Teppanyaki647,1,23,647,Restaurants,Tabernas649,1,23,649,Restaurants,Emilian651,1,23,651,Restaurants,Traditional Norwegian659,1,23,659,Restaurants,Danish662,1,23,662,Restaurants,Tuscan663,1,23,663,Restaurants,Friulan665,1,23,665,Restaurants,Senegalese669,1,23,669,Restaurants,Rotisserie Chicken670,1,23,670,Restaurants,Salvadoran672,1,23,672,Restaurants,Traditional Swedish673,1,23,673,Restaurants,Modern Australian676,1,23,676,Restaurants,Izakaya681,1,23,681,Restaurants,Wok688,1,23,688,Restaurants,Asturian691,1,23,691,Restaurants,Open Sandwiches692,1,23,692,Restaurants,Czech/Slovakian695,1,23,695,Restaurants,Nyonya696,1,23,696,Restaurants,Henghwa701,1,23,701,Restaurants,Colombian702,1,23,702,Restaurants,Ligurian708,1,23,708,Restaurants,Roman709,1,23,709,Restaurants,Canadian (New)714,1,23,714,Restaurants,Laos718,1,23,718,Restaurants,Yugoslav722,1,23,722,Restaurants,Apulian725,1,23,725,Restaurants,Arroceria / Paella729,1,23,729,Restaurants,Kurdish731,1,23,731,Restaurants,Teochew735,1,23,735,Restaurants,Hokkien736,1,23,736,Restaurants,Hot Pot738,1,23,738,Restaurants,Catalan739,1,23,739,Restaurants,Swiss Food741,1,23,741,Restaurants,Hakka743,1,23,743,Restaurants,Laotian744,1,23,744,Restaurants,Food Court746,1,23,746,Restaurants,Fuzhou747,1,23,747,Restaurants,Calabrian748,1,23,748,Restaurants,Trinidadian750,1,23,750,Restaurants,Sardinian751,1,23,751,Restaurants,Pub Food754,1,23,754,Restaurants,Cafeteria755,1,23,755,Restaurants,Bangladeshi757,1,23,757,Restaurants,Venezuelan759,1,23,759,Restaurants,Jewish762,1,23,762,Restaurants,Haitian764,1,23,764,Restaurants,Dominican766,1,23,766,Restaurants,Venetian768,1,23,768,Restaurants,Cypriot769,1,23,769,Restaurants,South African772,1,23,772,Restaurants,Chech775,1,23,775,Restaurants,Pierogis776,1,23,776,Restaurants,Venison777,1,23,777,Restaurants,Shanghainese779,1,23,779,Restaurants,Iberian786,1,23,786,Restaurants,Ramen788,1,23,788,Restaurants,Pita789,1,23,789,Restaurants,Black Sea790,1,23,790,Restaurants,Giblets791,1,23,791,Restaurants,Chee Kufta792,1,23,792,Restaurants,Meatballs793,1,23,793,Restaurants,Rice795,1,23,795,Restaurants,Turkish Ravioli796,1,23,796,Restaurants,Gozleme813,1,23,813,Restaurants,Northern German814,1,23,814,Restaurants,Baguettes819,1,23,819,Restaurants,Hessian821,1,23,821,Restaurants,Baden822,1,23,822,Restaurants,Palatine823,1,23,823,Restaurants,Eastern German824,1,23,824,Restaurants,Rhinelandian834,1,23,834,Restaurants,New Zealand836,1,23,836,Restaurants,Armenian849,1,23,849,Restaurants,Beisl850,1,23,850,Restaurants,Heuriger855,1,23,855,Restaurants,Slovakian859,1,23,859,Restaurants,Czech860,1,23,860,Restaurants,Brazilian Empanadas861,1,23,861,Restaurants,Arab Pizza862,1,23,862,Restaurants,Northeastern Brazilian863,1,23,863,Restaurants,Central Brazilian864,1,23,864,Restaurants,Rodizios865,1,23,865,Restaurants,Northern Brazilian866,1,23,866,Restaurants,Hand Rolls872,1,23,872,Restaurants,Napoletana893,1,23,893,Restaurants,Falafel895,1,23,895,Restaurants,Tras-os-Montes896,1,23,896,Restaurants,Alentejo899,1,23,899,Restaurants,Algarve900,1,23,900,Restaurants,Minho901,1,23,901,Restaurants,Fado Houses902,1,23,902,Restaurants,Ribatejo904,1,23,904,Restaurants,Beira906,1,23,906,Restaurants,Japanese Curry907,1,23,907,Restaurants,Tacos908,1,23,908,Restaurants,Udon913,1,23,913,Restaurants,Tonkatsu914,1,23,914,Restaurants,Unagi916,1,23,916,Restaurants,Okonomiyaki917,1,23,917,Restaurants,Yucatan920,1,23,920,Restaurants,Conveyor Belt Sushi921,1,23,921,Restaurants,Madeira923,1,23,923,Restaurants,Jaliscan924,1,23,924,Restaurants,Oyakodon925,1,23,925,Restaurants,Donburi930,1,23,930,Restaurants,Tempura931,1,23,931,Restaurants,Eastern Mexican932,1,23,932,Restaurants,Kaiseki935,1,23,935,Restaurants,Oaxacan936,1,23,936,Restaurants,Azores937,1,23,937,Restaurants,Gyudon938,1,23,938,Restaurants,Okinawan939,1,23,939,Restaurants,Western Style Japanese Food940,1,23,940,Restaurants,Tamales942,1,23,942,Restaurants,Kushikatsu943,1,23,943,Restaurants,Pueblan946,1,23,946,Restaurants,Blowfish947,1,23,947,Restaurants,Soba948,1,23,948,Restaurants,Dumplings949,1,23,949,Restaurants,Northern Mexican953,1,23,953,Restaurants,Sukiyaki955,1,23,955,Restaurants,Oden956,1,23,956,Restaurants,Yakitori984,1,23,984,Restaurants,Uzbek997,1,23,997,Restaurants,Congee999,1,23,999,Restaurants,Hong Kong Style Cafe1002,1,23,1002,Restaurants,Yakiniku1004,1,23,1004,Restaurants,Piemonte1005,1,23,1005,Restaurants,Takoyaki1022,1,23,1022,Restaurants,Onigiri1024,1,23,1024,Restaurants,Pekinese1026,1,23,1026,Restaurants,Horumon1028,1,23,1028,Restaurants,Chilean1029,1,23,1029,Restaurants,Norcinerie1031,1,23,1031,Restaurants,Hunan1032,1,23,1032,Restaurants,Trattorie1047,1,23,1047,Restaurants,Robatayaki1055,1,23,1055,Restaurants,Fischbroetchen1064,1,23,1064,Restaurants,Abruzzese1070,1,23,1070,Restaurants,Alsatian1071,1,23,1071,Restaurants,Auvergnat1072,1,23,1072,Restaurants,Nicoise1073,1,23,1073,Restaurants,Flemish1074,1,23,1074,Restaurants,Provencal1075,1,23,1075,Restaurants,Bourguignon1076,1,23,1076,Restaurants,Berrichon1092,1,23,1092,Restaurants,Sri Lankan1128,1,23,1128,Restaurants,Supper Clubs1134,1,23,1134,Restaurants,Homemade Food1136,1,23,1136,Restaurants,Lahmacun1155,1,23,1155,Restaurants,Kopitiam23,0,23,NULL,Restaurants,NULL26,1,25,26,Beauty & Spas,Barbers53,1,25,53,Beauty & Spas,Hair Salons643,2,25,53,Beauty & Spas,Hair Salons799,2,25,53,Beauty & Spas,Hair Salons580,2,25,53,Beauty & Spas,Hair Salons655,2,25,53,Beauty & Spas,Hair Salons77,1,25,77,Beauty & Spas,Massage291,2,25,103,Beauty & Spas,Hair Removal1058,2,25,103,Beauty & Spas,Hair Removal996,2,25,103,Beauty & Spas,Hair Removal103,1,25,103,Beauty & Spas,Hair Removal116,1,25,116,Beauty & Spas,Tattoo138,1,25,138,Beauty & Spas,Piercing148,1,25,148,Beauty & Spas,Tanning854,2,25,148,Beauty & Spas,Tanning846,2,25,148,Beauty & Spas,Tanning167,1,25,167,Beauty & Spas,Nail Salons184,1,25,184,Beauty & Spas,Day Spas213,1,25,213,Beauty & Spas,Cosmetics & Beauty Supply263,1,25,263,Beauty & Spas,Skin Care291,1,25,291,Beauty & Spas,Laser Hair Removal343,1,25,343,Beauty & Spas,Eyelash Service357,1,25,357,Beauty & Spas,Makeup Artists413,1,25,413,Beauty & Spas,Medical Spas526,1,25,526,Beauty & Spas,Perfume580,1,25,580,Beauty & Spas,Hair Stylists643,1,25,643,Beauty & Spas,Men's Hair Salons655,1,25,655,Beauty & Spas,Hair Extensions771,1,25,771,Beauty & Spas,Rolfing799,1,25,799,Beauty & Spas,Blow Dry/Out Services829,1,25,829,Beauty & Spas,Permanent Makeup846,1,25,846,Beauty & Spas,Spray Tanning854,1,25,854,Beauty & Spas,Tanning Beds996,1,25,996,Beauty & Spas,Waxing1020,1,25,1020,Beauty & Spas,Erotic Massage1058,1,25,1058,Beauty & Spas,Sugaring1087,1,25,1087,Beauty & Spas,Hair Loss Centers1143,1,25,1143,Beauty & Spas,Hot Springs25,0,25,NULL,Beauty & Spas,NULL30,1,29,30,Food,Convenience Stores38,1,29,38,Food,Juice Bars & Smoothies62,1,29,62,Food,Breweries67,1,29,67,Food,Bakeries308,2,29,72,Food,Specialty Food954,2,29,72,Food,Specialty Food1060,2,29,72,Food,Specialty Food171,2,29,72,Food,Specialty Food321,2,29,72,Food,Specialty Food1116,2,29,72,Food,Specialty Food174,2,29,72,Food,Specialty Food279,2,29,72,Food,Specialty Food90,2,29,72,Food,Specialty Food73,2,29,72,Food,Specialty Food194,2,29,72,Food,Specialty Food1121,2,29,72,Food,Specialty Food563,2,29,72,Food,Specialty Food72,1,29,72,Food,Specialty Food73,1,29,73,Food,Seafood Markets74,1,29,74,Food,"Beer, Wine & Spirits"88,1,29,88,Food,Grocery89,1,29,89,Food,Ice Cream & Frozen Yogurt90,1,29,90,Food,Fruits & Veggies99,1,29,99,Food,Coffee & Tea171,1,29,171,Food,Candy Stores174,1,29,174,Food,Health Markets194,1,29,194,Food,Meat Shops229,1,29,229,Food,Donuts231,1,29,231,Food,Desserts232,1,29,232,Food,Bagels279,1,29,279,Food,Chocolatiers & Shops301,1,29,301,Food,Food Delivery Services306,1,29,306,Food,Farmers Market308,1,29,308,Food,Cheese Shops321,1,29,321,Food,Ethnic Food358,1,29,358,Food,Internet Cafes362,1,29,362,Food,Wineries1110,2,29,362,Food,Wineries396,1,29,396,Food,Delicatessen410,1,29,410,Food,Tea Rooms454,1,29,454,Food,Organic Stores475,1,29,475,Food,Do-It-Yourself Food523,1,29,523,Food,Beverage Store528,1,29,528,Food,Kiosk547,1,29,547,Food,Parent Cafes557,1,29,557,Food,Butcher563,1,29,563,Food,Herbs & Spices581,1,29,581,Food,Friterie618,1,29,618,Food,CSA631,1,29,631,Food,Churros683,1,29,683,Food,Donairs706,1,29,706,Food,Bubble Tea713,1,29,713,Food,Patisserie/Cake Shop732,1,29,732,Food,Shaved Ice767,1,29,767,Food,Street Vendors780,1,29,780,Food,Ethic Grocery783,1,29,783,Food,Gelato784,1,29,784,Food,Food Trucks815,1,29,815,Food,Pretzels837,1,29,837,Food,Zapiekanka843,1,29,843,Food,Mulled Wine870,1,29,870,Food,Cupcakes884,1,29,884,Food,Milkshake Bars897,1,29,897,Food,Fishmonger903,1,29,903,Food,Ethnic Grocery915,1,29,915,Food,Japanese Sweets926,1,29,926,Food,Honey927,1,29,927,Food,Distilleries954,1,29,954,Food,Tofu Shops975,1,29,975,Food,Coffee & Tea Supplies1008,1,29,1008,Food,Salumerie1060,1,29,1060,Food,Pasta Shops1090,1,29,1090,Food,Piadina1094,1,29,1094,Food,Hawker Centre1098,1,29,1098,Food,Panzerotti1110,1,29,1110,Food,Wine Tasting Room1115,1,29,1115,Food,Tortillas1116,1,29,1116,Food,Popcorn Shops1119,1,29,1119,Food,Torshi1121,1,29,1121,Food,Macarons1148,1,29,1148,Food,Nasi Lemak1153,1,29,1153,Food,Backshop29,0,29,NULL,Food,NULL32,1,33,32,Event Planning & Services,Venues & Event Spaces63,1,33,63,Event Planning & Services,Photographers629,2,33,63,Event Planning & Services,Photographers678,2,33,63,Event Planning & Services,Photographers68,1,33,68,Event Planning & Services,Hotels1093,2,33,68,Event Planning & Services,Hotels1045,2,33,68,Event Planning & Services,Hotels1000,2,33,68,Event Planning & Services,Hotels1036,2,33,68,Event Planning & Services,Hotels1051,2,33,68,Event Planning & Services,Hotels91,1,33,91,Event Planning & Services,Caterers130,1,33,130,Event Planning & Services,Party & Event Planning180,1,33,180,Event Planning & Services,DJs218,1,33,218,Event Planning & Services,Cards & Stationery282,1,33,282,Event Planning & Services,Party Supplies379,1,33,379,Event Planning & Services,Boat Charters392,1,33,392,Event Planning & Services,Videographers403,1,33,403,Event Planning & Services,Wedding Planning500,1,33,500,Event Planning & Services,Personal Chefs629,1,33,629,Event Planning & Services,Event Photography648,1,33,648,Event Planning & Services,Party Bus Rentals653,1,33,653,Event Planning & Services,Musicians658,1,33,658,Event Planning & Services,Party Equipment Rentals677,1,33,677,Event Planning & Services,Bartenders678,1,33,678,Event Planning & Services,Session Photography680,1,33,680,Event Planning & Services,Magicians689,1,33,689,Event Planning & Services,Clowns690,1,33,690,Event Planning & Services,Officiants911,1,33,911,Event Planning & Services,Photo Booth Rentals974,1,33,974,Event Planning & Services,Trivia Hosts1000,1,33,1000,Event Planning & Services,Agriturismi1010,1,33,1010,Event Planning & Services,Face Painting1017,1,33,1017,Event Planning & Services,Valet Services1036,1,33,1036,Event Planning & Services,Pensions1044,1,33,1044,Event Planning & Services,Mohels1045,1,33,1045,Event Planning & Services,Residences1051,1,33,1051,Event Planning & Services,Rest Stops1091,1,33,1091,Event Planning & Services,Party Bike Rentals1093,1,33,1093,Event Planning & Services,Mountain Huts1111,1,33,1111,Event Planning & Services,Wedding Chapels1112,1,33,1112,Event Planning & Services,Henna Artists1147,1,33,1147,Event Planning & Services,Party Characters33,0,33,NULL,Event Planning & Services,NULL251,1,36,251,Religious Organizations,Synagogues281,1,36,281,Religious Organizations,Churches319,1,36,319,Religious Organizations,Buddhist Temples353,1,36,353,Religious Organizations,Mosques394,1,36,394,Religious Organizations,Hindu Temples952,1,36,952,Religious Organizations,Shrines1156,1,36,1156,Religious Organizations,Taoist Temples36,0,36,NULL,Religious Organizations,NULL41,1,42,41,Pets,Veterinarians146,1,42,146,Pets,Pet Boarding/Pet Sitting147,1,42,147,Pets,Pet Services335,2,42,147,Pets,Pet Services350,2,42,147,Pets,Pet Services401,2,42,147,Pets,Pet Services146,2,42,147,Pets,Pet Services950,2,42,147,Pets,Pet Services217,1,42,217,Pets,Pet Stores262,1,42,262,Pets,Animal Shelters335,1,42,335,Pets,Pet Training350,1,42,350,Pets,Pet Groomers401,1,42,401,Pets,Dog Walkers685,1,42,685,Pets,Horse Boarding934,1,42,934,Pets,Pet Adoption950,1,42,950,Pets,Aquarium Services42,0,42,NULL,Pets,NULL49,1,48,49,Automotive,Car Dealers84,1,48,84,Automotive,Auto Repair85,1,48,85,Automotive,Gas & Service Stations111,1,48,111,Automotive,Car Wash129,1,48,129,Automotive,Body Shops131,1,48,131,Automotive,Auto Parts & Supplies132,1,48,132,Automotive,Tires160,1,48,160,Automotive,Towing185,1,48,185,Automotive,Motorcycle Dealers189,1,48,189,Automotive,Auto Glass Services201,1,48,201,Automotive,Car Stereo Installation322,1,48,322,Automotive,Oil Change Stations344,1,48,344,Automotive,Windshield Installation & Repair351,1,48,351,Automotive,Auto Detailing374,1,48,374,Automotive,Motorcycle Repair415,1,48,415,Automotive,Parking427,1,48,427,Automotive,Smog Check Stations598,1,48,598,Automotive,Boat Dealers622,1,48,622,Automotive,RV Dealers679,1,48,679,Automotive,Truck Rental826,1,48,826,Automotive,Auto Loan Providers871,1,48,871,Automotive,Wheel & Rim Repair877,1,48,877,Automotive,Aircraft Dealers878,1,48,878,Automotive,Auto Customization890,1,48,890,Automotive,Registration Services966,1,48,966,Automotive,Car Inspectors973,1,48,973,Automotive,Vehicle Shipping979,1,48,979,Automotive,RV Repair982,1,48,982,Automotive,Car Share Services1006,1,48,1006,Automotive,Auto Electric Services1033,1,48,1033,Automotive,Car Buyers1084,1,48,1084,Automotive,Mobile Dent Repair1124,1,48,1124,Automotive,Fuel Docks1132,1,48,1132,Automotive,Mobility Equipment Sales & Services1138,1,48,1138,Automotive,Marinas1139,1,48,1139,Automotive,Transmission Repair1152,1,48,1152,Automotive,Car Brokers48,0,48,NULL,Automotive,NULL51,1,52,51,Active Life,Golf86,1,52,86,Active Life,Bike Rentals1118,2,52,95,Active Life,Fitness & Instruction805,2,52,95,Active Life,Fitness & Instruction873,2,52,95,Active Life,Fitness & Instruction377,2,52,95,Active Life,Fitness & Instruction609,2,52,95,Active Life,Fitness & Instruction101,2,52,95,Active Life,Fitness & Instruction456,2,52,95,Active Life,Fitness & Instruction438,2,52,95,Active Life,Fitness & Instruction166,2,52,95,Active Life,Fitness & Instruction104,2,52,95,Active Life,Fitness & Instruction315,2,52,95,Active Life,Fitness & Instruction96,2,52,95,Active Life,Fitness & Instruction1130,2,52,95,Active Life,Fitness & Instruction587,2,52,95,Active Life,Fitness & Instruction95,1,52,95,Active Life,Fitness & Instruction96,1,52,96,Active Life,Gyms101,1,52,101,Active Life,Martial Arts104,1,52,104,Active Life,Yoga166,1,52,166,Active Life,Trainers181,1,52,181,Active Life,Boating187,1,52,187,Active Life,Bowling203,1,52,203,Active Life,Amateur Sports Teams220,1,52,220,Active Life,Mini Golf224,1,52,224,Active Life,Sports Clubs225,1,52,225,Active Life,Summer Camps234,1,52,234,Active Life,Amusement Parks240,1,52,240,Active Life,Skating Rinks267,1,52,267,Active Life,Zoos268,1,52,268,Active Life,Tennis292,1,52,292,Active Life,Parks514,2,52,292,Active Life,Parks296,2,52,292,Active Life,Parks293,1,52,293,Active Life,Playgrounds296,1,52,296,Active Life,Skate Parks315,1,52,315,Active Life,Pilates317,1,52,317,Active Life,Skiing318,1,52,318,Active Life,Skydiving327,1,52,327,Active Life,Rafting/Kayaking336,1,52,336,Active Life,Soccer342,1,52,342,Active Life,Hiking345,1,52,345,Active Life,Gun/Rifle Ranges359,1,52,359,Active Life,Archery360,1,52,360,Active Life,Horseback Riding364,1,52,364,Active Life,Beaches365,1,52,365,Active Life,Swimming Pools375,1,52,375,Active Life,Diving666,2,52,375,Active Life,Diving572,2,52,375,Active Life,Diving377,1,52,377,Active Life,Dance Studios400,1,52,400,Active Life,Aquariums412,1,52,412,Active Life,Leisure Centers438,1,52,438,Active Life,Tai Chi439,1,52,439,Active Life,Fishing451,1,52,451,Active Life,Go Karts456,1,52,456,Active Life,Swimming Lessons/Schools460,1,52,460,Active Life,Climbing469,1,52,469,Active Life,Lakes489,1,52,489,Active Life,Sailing503,1,52,503,Active Life,Kids Activities514,1,52,514,Active Life,Dog Parks517,1,52,517,Active Life,Horse Racing524,1,52,524,Active Life,Disc Golf530,1,52,530,Active Life,Gliding536,1,52,536,Active Life,Hot Air Balloons565,1,52,565,Active Life,Recreation Centers572,1,52,572,Active Life,Free Diving586,1,52,586,Active Life,Paddleboarding587,1,52,587,Active Life,Boot Camps589,1,52,589,Active Life,Lawn Bowling609,1,52,609,Active Life,Barre Classes611,1,52,611,Active Life,Bicycle Paths613,1,52,613,Active Life,Indoor Playcentre624,1,52,624,Active Life,Paintball625,1,52,625,Active Life,Surfing641,1,52,641,Active Life,Tubing666,1,52,666,Active Life,Scuba Diving674,1,52,674,Active Life,Experiences675,1,52,675,Active Life,Bathing Area697,1,52,697,Active Life,Mountain Biking704,1,52,704,Active Life,Sport Equipment Hire716,1,52,716,Active Life,Rock Climbing730,1,52,730,Active Life,Kiteboarding749,1,52,749,Active Life,Trampoline Parks765,1,52,765,Active Life,Hang Gliding805,1,52,805,Active Life,Boxing807,1,52,807,Active Life,Gymnastics810,1,52,810,Active Life,Nudist817,1,52,817,Active Life,Badminton818,1,52,818,Active Life,Squash820,1,52,820,Active Life,Public Plazas825,1,52,825,Active Life,Spin Classes831,1,52,831,Active Life,Laser Tag840,1,52,840,Active Life,Bungee Jumping842,1,52,842,Active Life,Zorbing856,1,52,856,Active Life,Sledding858,1,52,858,Active Life,Basketball Courts873,1,52,873,Active Life,Meditation Centers876,1,52,876,Active Life,Surf Lifesaving889,1,52,889,Active Life,Challenge Courses898,1,52,898,Active Life,Cycling Classes905,1,52,905,Active Life,Day Camps969,1,52,969,Active Life,Batting Cages976,1,52,976,Active Life,Jet Skis994,1,52,994,Active Life,ATV Rentals/Tours995,1,52,995,Active Life,Fencing Clubs1007,1,52,1007,Active Life,Flyboarding1043,1,52,1043,Active Life,Volleyball1050,1,52,1050,Active Life,Beach Volleyball1053,1,52,1053,Active Life,Wildlife Hunting Ranges1118,1,52,1118,Active Life,EMS Training1130,1,52,1130,Active Life,Golf Lessons1144,1,52,1144,Active Life,Races & Competitions52,0,52,NULL,Active Life,NULL61,1,59,61,Nightlife,Bars525,2,59,61,Nightlife,Bars717,2,59,61,Nightlife,Bars289,2,59,61,Nightlife,Bars183,2,59,61,Nightlife,Bars473,2,59,61,Nightlife,Bars140,2,59,61,Nightlife,Bars513,2,59,61,Nightlife,Bars495,2,59,61,Nightlife,Bars110,2,59,61,Nightlife,Bars852,2,59,61,Nightlife,Bars137,2,59,61,Nightlife,Bars531,2,59,61,Nightlife,Bars1063,2,59,61,Nightlife,Bars1027,2,59,61,Nightlife,Bars700,2,59,61,Nightlife,Bars421,2,59,61,Nightlife,Bars110,1,59,110,Nightlife,Dive Bars137,1,59,137,Nightlife,Lounges140,1,59,140,Nightlife,Pubs142,1,59,142,Nightlife,Dance Clubs183,1,59,183,Nightlife,Sports Bars238,1,59,238,Nightlife,Music Venues255,1,59,255,Nightlife,Pool Halls271,1,59,271,Nightlife,Comedy Clubs289,1,59,289,Nightlife,Gay Bars290,1,59,290,Nightlife,Karaoke340,1,59,340,Nightlife,Adult Entertainment408,1,59,408,Nightlife,Jazz & Blues421,1,59,421,Nightlife,Wine Bars473,1,59,473,Nightlife,Hookah Bars495,1,59,495,Nightlife,Irish Pub513,1,59,513,Nightlife,Cocktail Bars525,1,59,525,Nightlife,Champagne Bars531,1,59,531,Nightlife,Beach Bars576,1,59,576,Nightlife,Beer Gardens626,1,59,626,Nightlife,Piano Bars633,1,59,633,Nightlife,Country Dance Halls650,1,59,650,Nightlife,Dance Restaurants700,1,59,700,Nightlife,Hotel bar715,1,59,715,Nightlife,Coffeeshops717,1,59,717,Nightlife,Beer Bar787,1,59,787,Nightlife,Fasil Music852,1,59,852,Nightlife,Absinthe Bars1027,1,59,1027,Nightlife,Sake Bars1063,1,59,1063,Nightlife,Airport Lounges59,0,59,NULL,Nightlife,NULL69,1,70,69,Arts & Entertainment,Performing Arts75,1,70,75,Arts & Entertainment,Cinema79,1,70,79,Arts & Entertainment,Museums139,1,70,139,Arts & Entertainment,Stadiums & Arenas152,1,70,152,Arts & Entertainment,Art Galleries202,1,70,202,Arts & Entertainment,Professional Sports Teams238,1,70,238,Arts & Entertainment,Music Venues316,1,70,316,Arts & Entertainment,Botanical Gardens354,1,70,354,Arts & Entertainment,Arcades1110,2,70,362,Arts & Entertainment,Wineries362,1,70,362,Arts & Entertainment,Wineries366,1,70,366,Arts & Entertainment,Social Clubs370,1,70,370,Arts & Entertainment,Casinos398,1,70,398,Arts & Entertainment,Psychics & Astrologers407,1,70,407,Arts & Entertainment,Festivals501,2,70,407,Arts & Entertainment,Festivals554,2,70,407,Arts & Entertainment,Festivals537,2,70,407,Arts & Entertainment,Festivals552,2,70,407,Arts & Entertainment,Festivals408,1,70,408,Arts & Entertainment,Jazz & Blues422,1,70,422,Arts & Entertainment,Opera & Ballet501,1,70,501,Arts & Entertainment,General Festivals537,1,70,537,Arts & Entertainment,Fun Fair538,1,70,538,Arts & Entertainment,Castles552,1,70,552,Arts & Entertainment,Christmas Markets554,1,70,554,Arts & Entertainment,Trade Fairs599,1,70,599,Arts & Entertainment,Street Art615,1,70,615,Arts & Entertainment,Tablao Flamenco711,1,70,711,Arts & Entertainment,Betting Centers752,1,70,752,Arts & Entertainment,Choirs753,1,70,753,Arts & Entertainment,Ticket Sales773,1,70,773,Arts & Entertainment,Cultural Center812,1,70,812,Arts & Entertainment,Marching Bands841,1,70,841,Arts & Entertainment,Race Tracks951,1,70,951,Arts & Entertainment,Cabaret1037,1,70,1037,Arts & Entertainment,Pachinko1038,1,70,1038,Arts & Entertainment,Mah Jong Halls1077,1,70,1077,Arts & Entertainment,Paint & Sip1096,1,70,1096,Arts & Entertainment,Observatories1097,1,70,1097,Arts & Entertainment,Bingo Halls1102,1,70,1102,Arts & Entertainment,Country Clubs1103,1,70,1103,Arts & Entertainment,Planetarium1110,1,70,1110,Arts & Entertainment,Wine Tasting Room1133,1,70,1133,Arts & Entertainment,LAN Centers70,0,70,NULL,Arts & Entertainment,NULL82,1,81,82,Education,Driving Schools83,1,81,83,Education,Specialty Schools284,2,81,83,Education,Specialty Schools467,2,81,83,Education,Specialty Schools269,2,81,83,Education,Specialty Schools1059,2,81,83,Education,Specialty Schools894,2,81,83,Education,Specialty Schools682,2,81,83,Education,Specialty Schools82,2,81,83,Education,Specialty Schools634,2,81,83,Education,Specialty Schools333,2,81,83,Education,Specialty Schools456,2,81,83,Education,Specialty Schools809,2,81,83,Education,Specialty Schools1040,2,81,83,Education,Specialty Schools94,2,81,83,Education,Specialty Schools470,2,81,83,Education,Specialty Schools1137,2,81,83,Education,Specialty Schools1061,2,81,83,Education,Specialty Schools1089,2,81,83,Education,Specialty Schools261,2,81,83,Education,Specialty Schools1013,2,81,83,Education,Specialty Schools970,2,81,83,Education,Specialty Schools1062,2,81,83,Education,Specialty Schools737,2,81,83,Education,Specialty Schools94,1,81,94,Education,Language Schools120,1,81,120,Education,Educational Services133,1,81,133,Education,Preschools134,1,81,134,Education,Elementary Schools144,1,81,144,Education,Colleges & Universities156,1,81,156,Education,Middle Schools & High Schools211,1,81,211,Education,Tutoring Centers261,1,81,261,Education,Art Schools269,1,81,269,Education,Cosmetology Schools284,1,81,284,Education,Cooking Schools333,1,81,333,Education,Dance Schools347,1,81,347,Education,Adult Education456,1,81,456,Education,Swimming Lessons/Schools467,1,81,467,Education,Flight Instruction470,1,81,470,Education,Massage Schools504,1,81,504,Education,Private Tutors585,1,81,585,Education,Special Education610,1,81,610,Education,Private Schools634,1,81,634,Education,Vocational & Technical School635,1,81,635,Education,Test Preparation682,1,81,682,Education,Circus Schools719,1,81,719,Education,Religious Schools727,1,81,727,Education,College Counseling737,1,81,737,Education,CPR Classes809,1,81,809,Education,First Aid Classes894,1,81,894,Education,Food Safety Training912,1,81,912,Education,Art Classes970,1,81,970,Education,Bartending Schools1013,1,81,1013,Education,Parenting Classes1040,1,81,1040,Education,Nursing Schools1059,1,81,1059,Education,Ski Schools1061,1,81,1061,Education,Firearm Training1062,1,81,1062,Education,Pole Dancing Classes1089,1,81,1089,Education,Samba Schools1142,2,81,1125,Education,Tasting Classes1126,2,81,1125,Education,Tasting Classes1125,1,81,1125,Education,Tasting Classes1126,1,81,1126,Education,Cheese Tasting Classes1137,1,81,1137,Education,Childbirth Education1142,1,81,1142,Education,Wine Tasting Classes81,0,81,NULL,Education,NULL106,1,107,106,Mass Media,Television Stations186,1,107,186,Mass Media,Print Media253,1,107,253,Mass Media,Radio Stations107,0,107,NULL,Mass Media,NULL117,1,118,117,Public Services & Government,Libraries164,1,118,164,Public Services & Government,Post Offices314,1,118,314,Public Services & Government,Landmarks & Historical Buildings383,1,118,383,Public Services & Government,Police Departments496,1,118,496,Public Services & Government,Departments of Motor Vehicles506,1,118,506,Public Services & Government,Registry Office507,1,118,507,Public Services & Government,Embassy583,1,118,583,Public Services & Government,Authorized Postal Representative603,1,118,603,Public Services & Government,Courthouses761,1,118,761,Public Services & Government,Tax Office811,1,118,811,Public Services & Government,Community Centers830,1,118,830,Public Services & Government,Fire Departments118,0,118,NULL,Public Services & Government,NULL848,1,159,848,Local Flavor,Yelp Events159,0,159,NULL,Local Flavor,NULL575,1,573,575,Bicycles,Bike Repair652,1,573,652,Bicycles,Special Bikes656,1,573,656,Bicycles,Bike Shop785,1,573,785,Bicycles,Bike Associations573,0,573,NULL,Bicycles,NULL937,3,NULL,NULL,NULL,NULL924,3,NULL,NULL,NULL,NULL
