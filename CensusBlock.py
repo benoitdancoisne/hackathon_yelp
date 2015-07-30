@@ -3,16 +3,25 @@ import shapefile_bis as shapefile
 
 class CensusBlock:
     
-    def __init__(self):
+    def __init__(self, shape):
         self.category_counts = {}
         self.business_ids = []
+        self.shape = shape
 
     def add(self, business):
-        self.business_ids.append(business.getId())
-        #TODO update counts
+        """
+        Adds a business to the census block by updating the business id list as well
+        as the counts for each category
+        """
+        self.business_ids.append(business.get_id())
+        category = business.get_category()
+        if self.category_counts.has_key(category):
+            self.category_counts[category] += 1
+        else:
+            self.category_counts[category] = 1
 
-    def isInside(self, business):
-        return self.shape.is_inside((business.getLatLong()))
+    def is_inside(self, business):
+        return self.shape.is_inside((business.get_lat_long()))
 
 if __name__ == '__main__':
     sf = shapefile.Reader("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
