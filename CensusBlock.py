@@ -17,11 +17,8 @@ class CensusBlock:
         Adds a business to the census block by updating the business id list as well
         as the counts for each category
         """
-        print 'Adding'
         self.business_ids.append(business.get_id())
         self.business_ids_set.add(business.get_id())
-        print self.business_ids
-        print self.business_ids_set
         
         category = business.get_category()
         if not category is None:
@@ -58,4 +55,4 @@ class CensusBlock:
 if __name__ == '__main__':
     sf = shapefile.Reader("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
     shapes = sf.shapes()
-    print shapes[5].is_inside(1,1)
+    print shapes[5].is_inside(1, 1)
