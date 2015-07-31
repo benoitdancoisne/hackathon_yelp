@@ -130,7 +130,7 @@ class City:
         print '\nGenerating visualization data...'
         census_blocks = self.census_blocks
 
-        f.write('block_id,biz_name,category,sub_category,created_time,lat,long\n')
+        f.write('block_id,biz_name,category,sub_category,created_time,lat,long,cluster_id\n')
 
         print 'Number of census_blocks = ',len(census_blocks)
         block_counter = 0
@@ -150,13 +150,14 @@ class City:
                 sub_category = business.get_subcategory()
                 created_time = business.get_created_time()
                 lat1, long1 = business.get_lat_long()
+                cluster_id = block.get_cluster_id()
 
-                f.write(str(block_id)+','+str(biz_name)+','+str(category)+','+str(sub_category)+','+str(created_time)+','+str(lat1)+','+str(long1)+'\n')
+                f.write(str(block_id)+','+str(biz_name)+','+str(category)+','+str(sub_category)+','+str(created_time)+','+str(lat1)+','+str(long1)+','+str(cluster_id)+'\n')
 
 if __name__ == '__main__':
     sf = City("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
-    # sf.generate_viz_data()
+    
     sf.cluster(n_clusters=10, n_categories=10)
-
+    sf.generate_viz_data()
 
 

@@ -61,6 +61,9 @@ class CensusBlock:
     def set_cluster_id(self, id):
         self.cluster_id = id
 
+    def get_cluster_id(self):
+        return self.cluster_id
+
 if __name__ == '__main__':
     sf = shapefile.Reader("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
     shapes = sf.shapes()
