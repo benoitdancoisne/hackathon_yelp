@@ -18,7 +18,7 @@ class City:
         # limit the number of businesses for testing purpose
         id = 0
         for file in biz_files:
-            print "...loading file {}".format(file)
+            print "...loading file %s"%(file)
             table = np.load(file)
             for row in table:
                 # retrieves header row
@@ -57,9 +57,9 @@ class City:
                     block.add(business)
                     break
             progress += 1
-            if not progress%50:
+            if not progress%100:
                 sys.stdout.flush()
-                sys.stdout.write("...processing business #{:d}\r".format(progress))
+                sys.stdout.write("...processing business %s\n"%(progress))
         sys.stdout.flush()
         print "Done"
 
