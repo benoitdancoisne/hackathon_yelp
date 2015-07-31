@@ -88,16 +88,46 @@ class City:
             for block in self.census_blocks:
                 block_id = block.get_id()
                 if block_id == block_id_business:
+                    print 'Adding to block'
                     block.add(business)
+                    print 'block set_bus_ids = ',block.get_business_ids()
+                    exit(0)
                     break
             progress += 1
-            if not progress%1000:
+            if not progress%10000:
                 sys.stdout.flush()
                 sys.stdout.write("...processing business %s\n"%(progress))
         sys.stdout.flush()
         print "Done"
 
+    def generate_viz_data(self):
+        f = open('viz_data_part2.csv','w')
+        print 'Generating visualization data...'
+        census_blocks = self.census_blocks
+
+        f.write('block_id,biz_name,category,sub_category,created_time,lat,long\n')
+
+        print 'Number of census_blocks = ',len(census_blocks)
+        block_counter = 0
+        for block in census_blocks:
+            block_counter += 1
+            print 'block_counter = ', block_counter
+            business_ids = block.get_business_ids()
+            for business in self.businesses:
+                bus_id = business.get_id()
+                if bus_id not in business_ids:
+                    continue
+
+                block_id = block.get_id()
+                biz_name = business.get_name()
+                category = business.get_category()
+                sub_category = business.get_subcategory()
+                created_time = business.get_created_time()
+                lat1, long1 = business.get_lat_long()
+
+                f.write(str(block_id)+','+str(biz_name)+','+str(category)+','+str(sub_category)+','+str(created_time)+','+str(lat1)+','+str(long1)+'\n')
 
 if __name__ == '__main__':
     sf = City("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
+    # sf.generate_viz_data()
 

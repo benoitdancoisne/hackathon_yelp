@@ -6,7 +6,6 @@ class Business:
             self.biz_data[header[i]] = row[i]
 
 
-
     def get_id(self):
         return self.biz_data['id']
 
@@ -16,16 +15,22 @@ class Business:
         return lat, long
 
     def get_category(self):
-        if self.biz_data.has_key('lvl_cat_nam'):
-            return self.biz_data['lvl_cat_nam']
+        if self.biz_data.has_key('lvl_cat_name'):
+            return self.biz_data['lvl_cat_name']
         else:
             return None
 
     def get_subcategory(self):
-        if self.biz_data.has_key('lvl1_cat_nam'):
-            return self.biz_data['lvl1_cat_nam']
+        if self.biz_data.has_key('lvl1_cat_name'):
+            return self.biz_data['lvl1_cat_name']
         else:
             return None
+
+    def get_name(self):
+        return self.biz_data['name']
+
+    def get_created_time(self):
+        return self.biz_data['time_created']
 
 if __name__ == '__main__':
     print
