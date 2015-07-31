@@ -10,7 +10,9 @@ class CensusBlock:
         self.business_ids_set = set()
         self.shape = shape
         self.shape.project_points()
+        self.shape.set_center()
         self.block_id = block_id
+        self.cluster_id = -1
 
     def add(self, business):
         """
@@ -24,7 +26,7 @@ class CensusBlock:
         # print self.business_ids
         # print self.business_ids_set
         
-        category = business.get_category()
+        category = business.get_deepest_category()
         if not category is None:
             if self.category_counts.has_key(category):
                 self.category_counts[category] += 1
@@ -40,6 +42,7 @@ class CensusBlock:
 
     def get_business_ids(self):
         return self.business_ids_set
+
     def get_counts(self):
         return self.category_counts
 
@@ -50,11 +53,17 @@ class CensusBlock:
                 counts[i] = self.category_counts[categories[i]]
         tot_counts = float(sum(counts))
         if tot_counts:
-
             vec = np.array([i/tot_counts for i in counts])
+            vec = np.hstack((vec, self.shape.get_center()))
         else:
-            vec = counts
+            vec = np.hstack((counts, self.shape.get_center()))
         return vec
+
+    def set_cluster_id(self, id):
+        self.cluster_id = id
+
+    def get_cluster_id(self):
+        return self.cluster_id
 
 if __name__ == '__main__':
     sf = shapefile.Reader("census2000_blkgrp_nowater/census2000_blkgrp_nowater")

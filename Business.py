@@ -26,6 +26,13 @@ class Business:
         else:
             return None
 
+    def get_deepest_category(self):
+        category = self.get_subcategory()
+        if category is not None:
+            return category
+        else:
+            return self.get_category()
+
     def get_name(self):
         return self.biz_data['name']
 

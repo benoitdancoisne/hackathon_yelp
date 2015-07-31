@@ -209,6 +209,16 @@ class _Shape:
         
         self.path = mplPath.Path(np.array(self.geopoints))
 
+    def set_center(self):
+        self.center = np.mean(self.geopoints, axis=0)
+        self.center[0] -= 36.5
+        self.center[1] -= -120.5
+        self.center[0] *= 10
+        self.center[1] *= 10
+
+    def get_center(self):
+        return self.center
+
     def is_inside(self, lat, long):
         return self.path.contains_point((lat, long))
 
