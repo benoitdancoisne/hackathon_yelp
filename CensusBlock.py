@@ -11,6 +11,7 @@ class CensusBlock:
         self.shape = shape
         self.shape.project_points()
         self.block_id = block_id
+        self.cluster_id = -1
 
     def add(self, business):
         """
@@ -40,6 +41,7 @@ class CensusBlock:
 
     def get_business_ids(self):
         return self.business_ids_set
+
     def get_counts(self):
         return self.category_counts
 
@@ -55,6 +57,9 @@ class CensusBlock:
         else:
             vec = counts
         return vec
+
+    def set_cluster_id(self, id):
+        self.cluster_id = id
 
 if __name__ == '__main__':
     sf = shapefile.Reader("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
