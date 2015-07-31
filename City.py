@@ -92,8 +92,6 @@ class City:
                 block_id = block.get_id()
                 if block_id == int(block_id_business):
                     block.add(business)
-                    print 'block set_bus_ids = ',block.get_business_ids()
-                    exit(0)
                     break
             progress += 1
             if not progress%10000:
@@ -133,6 +131,7 @@ class City:
 
                 block_id = block.get_id()
                 biz_name = business.get_name()
+                biz_name = biz_name.replace(',', ' ')
                 category = business.get_category()
                 sub_category = business.get_subcategory()
                 created_time = business.get_created_time()
@@ -142,6 +141,6 @@ class City:
 
 if __name__ == '__main__':
     sf = City("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
-    # sf.generate_viz_data()
-    sf.cluster()
+    sf.generate_viz_data()
+    # sf.cluster()
 

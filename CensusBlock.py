@@ -17,11 +17,11 @@ class CensusBlock:
         Adds a business to the census block by updating the business id list as well
         as the counts for each category
         """
-        print 'Adding'
+        # print 'Adding'
         self.business_ids.append(business.get_id())
         self.business_ids_set.add(business.get_id())
-        print self.business_ids
-        print self.business_ids_set
+        # print self.business_ids
+        # print self.business_ids_set
         
         category = business.get_category()
         if not category is None:
