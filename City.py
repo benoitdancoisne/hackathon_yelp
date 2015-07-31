@@ -141,6 +141,7 @@ class City:
 
                 block_id = block.get_id()
                 biz_name = business.get_name()
+                biz_name = biz_name.replace(',', ' ')
                 category = business.get_category()
                 sub_category = business.get_subcategory()
                 created_time = business.get_created_time()
@@ -152,4 +153,6 @@ if __name__ == '__main__':
     sf = City("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
     # sf.generate_viz_data()
     sf.cluster(10)
+
+
 
