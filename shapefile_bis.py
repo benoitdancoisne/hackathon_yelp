@@ -213,6 +213,8 @@ class _Shape:
         self.center = np.mean(self.geopoints, axis=0)
         self.center[0] -= 36.5
         self.center[1] -= -120.5
+        self.center[0] *= 10
+        self.center[1] *= 10
 
     def get_center(self):
         return self.center

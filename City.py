@@ -120,6 +120,7 @@ class City:
             i += 1
         estimator = KMeans(n_clusters=n_clusters)
         estimator.fit(data)
+        print 'estimator = ',estimator
         clusters = estimator.predict(data)
         for i in range(len(self.census_blocks)):
             self.census_blocks[i].set_cluster_id(clusters[i])
