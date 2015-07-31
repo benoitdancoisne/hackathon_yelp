@@ -106,24 +106,28 @@ class City:
         top_counts = sorted(total_counts.items(), key=operator.itemgetter(1), reverse=True)[:num_cat]
         return [pair[0] for pair in top_counts]
 
-    def cluster(self, n_clusters):
-        print "Clustering into %s clusters..." %n_clusters
-        categories = self._get_top_categories(10)
-        first = True
-        for block in self.census_blocks:
-            if first:
+    def cluster(self, n_clusters, n_categories):
+        print "\nClustering into %s clusters..." %n_clusters
+        categories = self._get_top_categories(n_categories)
+        print "The %s top categories are: "
+        print categories
+        for i in range(len(self.census_blocks)):
+            block = self.census_blocks[i]
+            if not i:
                 data = block.get_vector(categories)
-                first = False
             else:
                 data = np.vstack([data, block.get_vector(categories)])
+            i += 1
         estimator = KMeans(n_clusters=n_clusters)
         estimator.fit(data)
         clusters = estimator.predict(data)
+        for i in range(len(self.census_blocks)):
+            self.census_blocks[i].set_cluster_id(clusters[i])
         print "Done"
 
     def generate_viz_data(self):
         f = open('viz_data_part2.csv','w')
-        print 'Generating visualization data...'
+        print '\nGenerating visualization data...'
         census_blocks = self.census_blocks
 
         f.write('block_id,biz_name,category,sub_category,created_time,lat,long\n')
@@ -151,8 +155,8 @@ class City:
 
 if __name__ == '__main__':
     sf = City("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
-    sf.generate_viz_data()
-    # sf.cluster(10)
+    # sf.generate_viz_data()
+    sf.cluster(n_clusters=10, n_categories=10)
 
 
 
