@@ -18,12 +18,12 @@ for shape in city.shapes():
 	random_strength = random.randint(1,100)
 	inner_counter = 0
 
-	len_boundary = len(boundary)
-	if len_boundary > 10:
-		new_shape_points = []
-		for i in range(0, len_boundary, int(float(len_boundary)/float(10))):
-			new_shape_points.append(boundary[i])
-		boundary = new_shape_points
+	# len_boundary = len(boundary)
+	# if len_boundary > 10:
+	# 	new_shape_points = []
+	# 	for i in range(0, len_boundary, int(float(len_boundary)/float(10))):
+	# 		new_shape_points.append(boundary[i])
+	# 	boundary = new_shape_points
 
 	for (x,y) in boundary:
 		mult = float(1200)/float(3937)
