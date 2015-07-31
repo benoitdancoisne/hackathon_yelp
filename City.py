@@ -94,7 +94,7 @@ class City:
                     block.add(business)
                     break
             progress += 1
-            if not progress%10000:
+            if not progress%1000:
                 sys.stdout.flush()
                 sys.stdout.write("...processing business %s\r"%(progress))
         print "\nDone"
@@ -106,10 +106,20 @@ class City:
         top_counts = sorted(total_counts.items(), key=operator.itemgetter(1), reverse=True)[:num_cat]
         return [pair[0] for pair in top_counts]
 
-    def cluster(self):
+    def cluster(self, n_clusters):
+        print "Clustering into %s clusters..." %n_clusters
         categories = self._get_top_categories(10)
+        first = True
         for block in self.census_blocks:
-            print block.get_vector(categories)
+            if first:
+                data = block.get_vector(categories)
+                first = False
+            else:
+                data = np.vstack([data, block.get_vector(categories)])
+        estimator = KMeans(n_clusters=n_clusters)
+        estimator.fit(data)
+        clusters = estimator.predict(data)
+        print "Done"
 
     def generate_viz_data(self):
         f = open('viz_data_part2.csv','w')
@@ -141,6 +151,8 @@ class City:
 
 if __name__ == '__main__':
     sf = City("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
-    sf.generate_viz_data()
-    # sf.cluster()
+    # sf.generate_viz_data()
+    sf.cluster(10)
+
+
 
