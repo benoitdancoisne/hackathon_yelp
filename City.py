@@ -109,7 +109,7 @@ class City:
     def cluster(self, n_clusters, n_categories):
         print "\nClustering into %s clusters..." %n_clusters
         categories = self._get_top_categories(n_categories)
-        print "The %s top categories are: "
+        print "The %s top categories are: " % n_categories
         print categories
         for i in range(len(self.census_blocks)):
             block = self.census_blocks[i]
@@ -132,7 +132,7 @@ class City:
 
         f.write('block_id,biz_name,category,sub_category,created_time,lat,long\n')
 
-        print 'Number of census_blocks = ',len(census_blocks)
+        print 'Number of census_blocks = ', len(census_blocks)
         block_counter = 0
         for block in census_blocks:
             block_counter += 1
@@ -156,7 +156,7 @@ class City:
 if __name__ == '__main__':
     sf = City("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
     # sf.generate_viz_data()
-    sf.cluster(n_clusters=10, n_categories=10)
+    sf.cluster(n_clusters=10, n_categories=15)
 
 
 
