@@ -193,13 +193,15 @@ class _Shape:
                     'coordinates': polys
                     }
 
-    def is_inside(self, lat, long):
+    def project_points(self):
         proj = pyproj.Proj(init='epsg:26943')
         ratio = 1200/3937.
-        points = [proj(ratio*point[0], ratio*point[1], inverse=True) for point in self.__geo_interface__['coordinates'][0]]
-        points = [(point[1], point[0]) for point in points]
-        path = mplPath.Path(np.array(points))
-        return path.contains_point((lat, long))
+        geopoints = [proj(ratio*point[0], ratio*point[1], inverse=True) for point in self.__geo_interface__['coordinates'][0]]
+        self.geopoints = [(point[1], point[0]) for point in geopoints]
+        self.path = mplPath.Path(np.array(self.geopoints))
+
+    def is_inside(self, lat, long):
+        return self.path.contains_point((lat, long))
 
 class _ShapeRecord:
     """A shape object of any type."""

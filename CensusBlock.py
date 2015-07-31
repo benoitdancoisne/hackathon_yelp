@@ -7,6 +7,7 @@ class CensusBlock:
         self.category_counts = {}
         self.business_ids = []
         self.shape = shape
+        self.shape.project_points()
 
     def add(self, business):
         """

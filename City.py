@@ -15,6 +15,7 @@ class City:
         print "\nLoading businesses..."
         self.businesses = []
         header = []
+        # limit the number of businesses for testing purpose
         id = 0
         for file in biz_files:
             print "...loading file {}".format(file)
@@ -28,7 +29,6 @@ class City:
                         biz = Business.Business(header, row)
                         self.businesses.append(biz)
                         id += 0
-
         print "Done"
 
     def _load_census_blocks(self, shape_file):
@@ -49,6 +49,9 @@ class City:
         print "\nPopulating census blocks..."
         progress = 1
         for business in self.businesses:
+            lat, long = business.get_lat_long()
+            if lat == 'NULL' or long == 'NULL':
+                continue
             for block in self.census_blocks:
                 if block.is_inside(business):
                     block.add(business)
