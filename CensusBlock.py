@@ -3,11 +3,12 @@ import shapefile_bis as shapefile
 
 class CensusBlock:
     
-    def __init__(self, shape):
+    def __init__(self, shape, block_id):
         self.category_counts = {}
         self.business_ids = []
         self.shape = shape
         self.shape.project_points()
+        self.block_id = block_id
 
     def add(self, business):
         """
@@ -25,6 +26,9 @@ class CensusBlock:
     def is_inside(self, business):
         lat, long = business.get_lat_long()
         return self.shape.is_inside(lat, long)
+
+    def get_id(self):
+        return self.block_id
 
 if __name__ == '__main__':
     sf = shapefile.Reader("census2000_blkgrp_nowater/census2000_blkgrp_nowater")

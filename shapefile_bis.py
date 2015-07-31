@@ -198,6 +198,15 @@ class _Shape:
         ratio = 1200/3937.
         geopoints = [proj(ratio*point[0], ratio*point[1], inverse=True) for point in self.__geo_interface__['coordinates'][0]]
         self.geopoints = [(point[1], point[0]) for point in geopoints]
+
+        len_boundary = len(self.geopoints)
+        if len_boundary > 10:
+            new_shape_points = []
+            for i in range(0, len_boundary, int(float(len_boundary)/float(10))):
+                new_shape_points.append(self.geopoints[i])
+            self.geopoints = new_shape_points
+
+        
         self.path = mplPath.Path(np.array(self.geopoints))
 
     def is_inside(self, lat, long):
