@@ -1,5 +1,6 @@
 import Business
 import shapefile_bis as shapefile
+import numpy as np
 
 class CensusBlock:
     
@@ -32,6 +33,19 @@ class CensusBlock:
 
     def get_counts(self):
         return self.category_counts
+
+    def get_vector(self, categories):
+        counts = np.array(np.zeros(len(categories)))
+        for i in range(len(categories)):
+            if self.category_counts.has_key(categories[i]):
+                counts[i] = self.category_counts[categories[i]]
+        tot_counts = float(sum(counts))
+        if tot_counts:
+
+            vec = np.array([i/tot_counts for i in counts])
+        else:
+            vec = counts
+        return vec
 
 if __name__ == '__main__':
     sf = shapefile.Reader("census2000_blkgrp_nowater/census2000_blkgrp_nowater")

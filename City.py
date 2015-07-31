@@ -99,16 +99,20 @@ class City:
                 sys.stdout.write("...processing business %s\r"%(progress))
         print "\nDone"
 
-    def get_top_categories(self, num_cat):
+    def _get_top_categories(self, num_cat):
         total_counts = {}
         for block in self.census_blocks:
-            print block.get_counts()
             total_counts.update(block.get_counts())
-        print sorted(total_counts.items(), key=operator.itemgetter(1))[:num_cat]
+        top_counts = sorted(total_counts.items(), key=operator.itemgetter(1), reverse=True)[:num_cat]
+        return [pair[0] for pair in top_counts]
 
+    def cluster(self):
+        categories = self._get_top_categories(10)
+        for block in self.census_blocks:
+            print block.get_vector(categories)
 
 
 if __name__ == '__main__':
     sf = City("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
-    sf.get_top_categories(10)
+    sf.cluster()
 
