@@ -194,8 +194,10 @@ class _Shape:
                     }
 
     def is_inside(self, lat, long):
-        proj = pyproj.Proj(init='epsg:26915')
-        points = [proj(point[0], point[1], inverse=True) for point in self.__geo_interface__['coordinates'][0]]
+        proj = pyproj.Proj(init='epsg:26943')
+        ratio = 1200/3937.
+        points = [proj(ratio*point[0], ratio*point[1], inverse=True) for point in self.__geo_interface__['coordinates'][0]]
+        points = [(point[1], point[0]) for point in points]
         path = mplPath.Path(np.array(points))
         return path.contains_point((lat, long))
 

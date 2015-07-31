@@ -15,13 +15,15 @@ class CensusBlock:
         """
         self.business_ids.append(business.get_id())
         category = business.get_category()
-        if self.category_counts.has_key(category):
-            self.category_counts[category] += 1
-        else:
-            self.category_counts[category] = 1
+        if not category is None:
+            if self.category_counts.has_key(category):
+                self.category_counts[category] += 1
+            else:
+                self.category_counts[category] = 1
 
     def is_inside(self, business):
-        return self.shape.is_inside((business.get_lat_long()))
+        lat, long = business.get_lat_long()
+        return self.shape.is_inside(lat, long)
 
 if __name__ == '__main__':
     sf = shapefile.Reader("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
