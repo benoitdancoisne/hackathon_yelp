@@ -3,6 +3,9 @@ import CensusBlock
 import shapefile_bis as shapefile
 import numpy as np
 import sys
+import operator
+
+from sklearn.cluster import KMeans
 
 class City:
 
@@ -10,7 +13,7 @@ class City:
         self._load_businesses(["SFDataWithCategories1.npy"])#, "SFDataWithCategories2.npy"])
         self._load_census_blocks(shape_file)
         # self._populate_census_blocks()
-        self._populate_census_blocks_from_file()
+        self._populate_census_blocks_from_file('business_to_block_id.csv')
 
     def _load_businesses(self, biz_files):
         print "\nLoading businesses..."
@@ -71,9 +74,9 @@ class City:
         sys.stdout.flush()
         print "Done"
 
-    def _populate_census_blocks_from_file(self):
-        print 'Populating...'
-        f = open('business_to_block_id.csv', 'r')
+    def _populate_census_blocks_from_file(self, file):
+        print '\nPopulating census blocks from file...'
+        f = open(file, 'r')
         business_to_block_id = dict()
         for line in f:
             line = line[:-1]
@@ -87,17 +90,25 @@ class City:
             block_id_business = business_to_block_id[business.get_id()]
             for block in self.census_blocks:
                 block_id = block.get_id()
-                if block_id == block_id_business:
+                if block_id == int(block_id_business):
                     block.add(business)
                     break
             progress += 1
             if not progress%1000:
                 sys.stdout.flush()
-                sys.stdout.write("...processing business %s\n"%(progress))
-        sys.stdout.flush()
-        print "Done"
+                sys.stdout.write("...processing business %s\r"%(progress))
+        print "\nDone"
+
+    def get_top_categories(self, num_cat):
+        total_counts = {}
+        for block in self.census_blocks:
+            print block.get_counts()
+            total_counts.update(block.get_counts())
+        print sorted(total_counts.items(), key=operator.itemgetter(1))[:num_cat]
+
 
 
 if __name__ == '__main__':
     sf = City("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
+    sf.get_top_categories(10)
 

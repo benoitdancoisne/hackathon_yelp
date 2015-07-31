@@ -30,6 +30,9 @@ class CensusBlock:
     def get_id(self):
         return self.block_id
 
+    def get_counts(self):
+        return self.category_counts
+
 if __name__ == '__main__':
     sf = shapefile.Reader("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
     shapes = sf.shapes()

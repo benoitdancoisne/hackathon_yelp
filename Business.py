@@ -16,14 +16,14 @@ class Business:
         return lat, long
 
     def get_category(self):
-        if self.biz_data.has_key('lvl_cat_nam'):
-            return self.biz_data['lvl_cat_nam']
+        if self.biz_data.has_key('lvl_cat_name'):
+            return self.biz_data['lvl_cat_name']
         else:
             return None
 
     def get_subcategory(self):
-        if self.biz_data.has_key('lvl1_cat_nam'):
-            return self.biz_data['lvl1_cat_nam']
+        if self.biz_data.has_key('lvl1_cat_name'):
+            return self.biz_data['lvl1_cat_name']
         else:
             return None
 
