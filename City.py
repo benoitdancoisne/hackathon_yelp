@@ -151,8 +151,8 @@ class City:
 
 if __name__ == '__main__':
     sf = City("census2000_blkgrp_nowater/census2000_blkgrp_nowater")
-    # sf.generate_viz_data()
-    sf.cluster(10)
+    sf.generate_viz_data()
+    # sf.cluster(10)
 
 
 
